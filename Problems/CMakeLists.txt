@@ -3,4 +3,4 @@ project(Problems)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Problems main.cpp)
+add_executable(Problems "infoarena/Radix Sort/main.cpp")

@@ -142,32 +142,32 @@ Problems/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems.dir\build.make CMakeFiles/Problems.dir/build
 .PHONY : Problems/fast
 
-main.obj: main.cpp.obj
+infoarena/Radix_Sort/main.obj: infoarena/Radix_Sort/main.cpp.obj
 
-.PHONY : main.obj
+.PHONY : infoarena/Radix_Sort/main.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems.dir\build.make CMakeFiles/Problems.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+infoarena/Radix_Sort/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems.dir\build.make CMakeFiles/Problems.dir/infoarena/Radix_Sort/main.cpp.obj
+.PHONY : infoarena/Radix_Sort/main.cpp.obj
 
-main.i: main.cpp.i
+infoarena/Radix_Sort/main.i: infoarena/Radix_Sort/main.cpp.i
 
-.PHONY : main.i
+.PHONY : infoarena/Radix_Sort/main.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems.dir\build.make CMakeFiles/Problems.dir/main.cpp.i
-.PHONY : main.cpp.i
+infoarena/Radix_Sort/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems.dir\build.make CMakeFiles/Problems.dir/infoarena/Radix_Sort/main.cpp.i
+.PHONY : infoarena/Radix_Sort/main.cpp.i
 
-main.s: main.cpp.s
+infoarena/Radix_Sort/main.s: infoarena/Radix_Sort/main.cpp.s
 
-.PHONY : main.s
+.PHONY : infoarena/Radix_Sort/main.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems.dir\build.make CMakeFiles/Problems.dir/main.cpp.s
-.PHONY : main.cpp.s
+infoarena/Radix_Sort/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Problems.dir\build.make CMakeFiles/Problems.dir/infoarena/Radix_Sort/main.cpp.s
+.PHONY : infoarena/Radix_Sort/main.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Problems
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... infoarena/Radix_Sort/main.obj
+	@echo ... infoarena/Radix_Sort/main.i
+	@echo ... infoarena/Radix_Sort/main.s
 .PHONY : help
 
 

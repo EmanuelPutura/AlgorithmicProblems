@@ -76,27 +76,27 @@ include CMakeFiles/Problems.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Problems.dir/flags.make
 
-CMakeFiles/Problems.dir/main.cpp.obj: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Informatica\Algorithms\Algorithms\AlgorithmicProblems\Problems\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Problems.dir/main.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Problems.dir\main.cpp.obj -c D:\Informatica\Algorithms\Algorithms\AlgorithmicProblems\Problems\main.cpp
+CMakeFiles/Problems.dir/infoarena/Radix_Sort/main.cpp.obj: CMakeFiles/Problems.dir/flags.make
+CMakeFiles/Problems.dir/infoarena/Radix_Sort/main.cpp.obj: ../infoarena/Radix\ Sort/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Informatica\Algorithms\Algorithms\AlgorithmicProblems\Problems\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Problems.dir/infoarena/Radix_Sort/main.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Problems.dir\infoarena\Radix_Sort\main.cpp.obj -c "D:\Informatica\Algorithms\Algorithms\AlgorithmicProblems\Problems\infoarena\Radix Sort\main.cpp"
 
-CMakeFiles/Problems.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/main.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Informatica\Algorithms\Algorithms\AlgorithmicProblems\Problems\main.cpp > CMakeFiles\Problems.dir\main.cpp.i
+CMakeFiles/Problems.dir/infoarena/Radix_Sort/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/infoarena/Radix_Sort/main.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Informatica\Algorithms\Algorithms\AlgorithmicProblems\Problems\infoarena\Radix Sort\main.cpp" > CMakeFiles\Problems.dir\infoarena\Radix_Sort\main.cpp.i
 
-CMakeFiles/Problems.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/main.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Informatica\Algorithms\Algorithms\AlgorithmicProblems\Problems\main.cpp -o CMakeFiles\Problems.dir\main.cpp.s
+CMakeFiles/Problems.dir/infoarena/Radix_Sort/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/infoarena/Radix_Sort/main.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Informatica\Algorithms\Algorithms\AlgorithmicProblems\Problems\infoarena\Radix Sort\main.cpp" -o CMakeFiles\Problems.dir\infoarena\Radix_Sort\main.cpp.s
 
 # Object files for target Problems
 Problems_OBJECTS = \
-"CMakeFiles/Problems.dir/main.cpp.obj"
+"CMakeFiles/Problems.dir/infoarena/Radix_Sort/main.cpp.obj"
 
 # External object files for target Problems
 Problems_EXTERNAL_OBJECTS =
 
-Problems.exe: CMakeFiles/Problems.dir/main.cpp.obj
+Problems.exe: CMakeFiles/Problems.dir/infoarena/Radix_Sort/main.cpp.obj
 Problems.exe: CMakeFiles/Problems.dir/build.make
 Problems.exe: CMakeFiles/Problems.dir/linklibs.rsp
 Problems.exe: CMakeFiles/Problems.dir/objects1.rsp

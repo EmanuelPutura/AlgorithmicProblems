@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Problems.dir/main.cpp.obj"
+  "CMakeFiles/Problems.dir/infoarena/Radix_Sort/main.cpp.obj"
   "Problems.exe"
   "Problems.exe.manifest"
   "Problems.pdb"
