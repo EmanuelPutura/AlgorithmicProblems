@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Problems.dir/objects.a
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\Problems.dir/objects.a @CMakeFiles\Problems.dir\objects1.rsp
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Problems.dir/objects.a -Wl,--no-whole-archive  -o Problems.exe -Wl,--out-implib,libProblems.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Problems.dir\linklibs.rsp
+/usr/bin/c++  -g   CMakeFiles/Problems.dir/InterviewBit/main.cpp.o CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.o  -o Problems 

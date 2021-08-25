@@ -1,9 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Problems.dir/infoarena/Radix_Sort/main.cpp.obj"
-  "Problems.exe"
-  "Problems.exe.manifest"
+  "CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.o"
+  "CMakeFiles/Problems.dir/InterviewBit/main.cpp.o"
+  "Problems"
   "Problems.pdb"
-  "libProblems.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
