@@ -3,10 +3,10 @@
 //
 
 #include "DistinctSubsequences.h"
-
-#include <iostream>
+#include "ConvertSortedListToBST.h"
 
 int main() {
     testDistinctSubsequences();
+    testConvertSortedListToBSTAnotherSolution();
     return 0;
 }

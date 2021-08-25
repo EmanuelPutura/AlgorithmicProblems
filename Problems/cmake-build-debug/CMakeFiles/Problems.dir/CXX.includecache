@@ -6,17 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/DistinctSubsequences.cpp
-DistinctSubsequences.h
-/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/DistinctSubsequences.h
-vector
--
+/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/ConvertSortedListToBST.cpp
+ConvertSortedListToBST.h
+/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/ConvertSortedListToBST.h
 iostream
 -
 cassert
 -
 
-/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/DistinctSubsequences.h
-string
+/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/ConvertSortedListToBST.h
+vector
 -
 

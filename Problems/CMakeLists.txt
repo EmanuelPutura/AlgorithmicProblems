@@ -3,4 +3,4 @@ project(Problems)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Problems InterviewBit/main.cpp InterviewBit/DistinctSubsequences.h InterviewBit/DistinctSubsequences.cpp)
+add_executable(Problems InterviewBit/main.cpp InterviewBit/DistinctSubsequences.h InterviewBit/DistinctSubsequences.cpp InterviewBit/ConvertSortedListToBST.cpp InterviewBit/ConvertSortedListToBST.h)

@@ -123,6 +123,33 @@ Problems/fast:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/build
 .PHONY : Problems/fast
 
+InterviewBit/ConvertSortedListToBST.o: InterviewBit/ConvertSortedListToBST.cpp.o
+
+.PHONY : InterviewBit/ConvertSortedListToBST.o
+
+# target to build an object file
+InterviewBit/ConvertSortedListToBST.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.o
+.PHONY : InterviewBit/ConvertSortedListToBST.cpp.o
+
+InterviewBit/ConvertSortedListToBST.i: InterviewBit/ConvertSortedListToBST.cpp.i
+
+.PHONY : InterviewBit/ConvertSortedListToBST.i
+
+# target to preprocess a source file
+InterviewBit/ConvertSortedListToBST.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.i
+.PHONY : InterviewBit/ConvertSortedListToBST.cpp.i
+
+InterviewBit/ConvertSortedListToBST.s: InterviewBit/ConvertSortedListToBST.cpp.s
+
+.PHONY : InterviewBit/ConvertSortedListToBST.s
+
+# target to generate assembly for a file
+InterviewBit/ConvertSortedListToBST.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.s
+.PHONY : InterviewBit/ConvertSortedListToBST.cpp.s
+
 InterviewBit/DistinctSubsequences.o: InterviewBit/DistinctSubsequences.cpp.o
 
 .PHONY : InterviewBit/DistinctSubsequences.o
@@ -186,6 +213,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Problems"
+	@echo "... InterviewBit/ConvertSortedListToBST.o"
+	@echo "... InterviewBit/ConvertSortedListToBST.i"
+	@echo "... InterviewBit/ConvertSortedListToBST.s"
 	@echo "... InterviewBit/DistinctSubsequences.o"
 	@echo "... InterviewBit/DistinctSubsequences.i"
 	@echo "... InterviewBit/DistinctSubsequences.s"

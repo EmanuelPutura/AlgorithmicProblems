@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/ConvertSortedListToBST.cpp">
+			<Option target="Problems"/>
+		</Unit>
+		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/ConvertSortedListToBST.h">
+			<Option target="Problems"/>
+		</Unit>
 		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/DistinctSubsequences.cpp">
 			<Option target="Problems"/>
 		</Unit>
