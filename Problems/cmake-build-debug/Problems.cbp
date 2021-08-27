@@ -94,6 +94,12 @@
 		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/DistinctSubsequences.h">
 			<Option target="Problems"/>
 		</Unit>
+		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/PalindromePartitioningII.cpp">
+			<Option target="Problems"/>
+		</Unit>
+		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/PalindromePartitioningII.h">
+			<Option target="Problems"/>
+		</Unit>
 		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/main.cpp">
 			<Option target="Problems"/>
 		</Unit>

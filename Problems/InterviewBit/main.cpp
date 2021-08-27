@@ -4,9 +4,12 @@
 
 #include "DistinctSubsequences.h"
 #include "ConvertSortedListToBST.h"
+#include "PalindromePartitioningII.h"
 
 int main() {
     testDistinctSubsequences();
     testConvertSortedListToBSTAnotherSolution();
+    testPalindromePartitioningII();
+
     return 0;
 }

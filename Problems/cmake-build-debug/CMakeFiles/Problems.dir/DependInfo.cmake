@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/ConvertSortedListToBST.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.o"
   "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/DistinctSubsequences.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.o"
+  "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/PalindromePartitioningII.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.o"
   "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/main.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/InterviewBit/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
