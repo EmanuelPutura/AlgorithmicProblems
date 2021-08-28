@@ -177,6 +177,33 @@ InterviewBit/DistinctSubsequences.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.s
 .PHONY : InterviewBit/DistinctSubsequences.cpp.s
 
+InterviewBit/MinJumpArray.o: InterviewBit/MinJumpArray.cpp.o
+
+.PHONY : InterviewBit/MinJumpArray.o
+
+# target to build an object file
+InterviewBit/MinJumpArray.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.o
+.PHONY : InterviewBit/MinJumpArray.cpp.o
+
+InterviewBit/MinJumpArray.i: InterviewBit/MinJumpArray.cpp.i
+
+.PHONY : InterviewBit/MinJumpArray.i
+
+# target to preprocess a source file
+InterviewBit/MinJumpArray.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.i
+.PHONY : InterviewBit/MinJumpArray.cpp.i
+
+InterviewBit/MinJumpArray.s: InterviewBit/MinJumpArray.cpp.s
+
+.PHONY : InterviewBit/MinJumpArray.s
+
+# target to generate assembly for a file
+InterviewBit/MinJumpArray.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.s
+.PHONY : InterviewBit/MinJumpArray.cpp.s
+
 InterviewBit/PalindromePartitioningII.o: InterviewBit/PalindromePartitioningII.cpp.o
 
 .PHONY : InterviewBit/PalindromePartitioningII.o
@@ -246,6 +273,9 @@ help:
 	@echo "... InterviewBit/DistinctSubsequences.o"
 	@echo "... InterviewBit/DistinctSubsequences.i"
 	@echo "... InterviewBit/DistinctSubsequences.s"
+	@echo "... InterviewBit/MinJumpArray.o"
+	@echo "... InterviewBit/MinJumpArray.i"
+	@echo "... InterviewBit/MinJumpArray.s"
 	@echo "... InterviewBit/PalindromePartitioningII.o"
 	@echo "... InterviewBit/PalindromePartitioningII.i"
 	@echo "... InterviewBit/PalindromePartitioningII.s"
