@@ -177,6 +177,33 @@ InterviewBit/DistinctSubsequences.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.s
 .PHONY : InterviewBit/DistinctSubsequences.cpp.s
 
+InterviewBit/EditDistance.o: InterviewBit/EditDistance.cpp.o
+
+.PHONY : InterviewBit/EditDistance.o
+
+# target to build an object file
+InterviewBit/EditDistance.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.o
+.PHONY : InterviewBit/EditDistance.cpp.o
+
+InterviewBit/EditDistance.i: InterviewBit/EditDistance.cpp.i
+
+.PHONY : InterviewBit/EditDistance.i
+
+# target to preprocess a source file
+InterviewBit/EditDistance.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.i
+.PHONY : InterviewBit/EditDistance.cpp.i
+
+InterviewBit/EditDistance.s: InterviewBit/EditDistance.cpp.s
+
+.PHONY : InterviewBit/EditDistance.s
+
+# target to generate assembly for a file
+InterviewBit/EditDistance.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.s
+.PHONY : InterviewBit/EditDistance.cpp.s
+
 InterviewBit/MinJumpArray.o: InterviewBit/MinJumpArray.cpp.o
 
 .PHONY : InterviewBit/MinJumpArray.o
@@ -273,6 +300,9 @@ help:
 	@echo "... InterviewBit/DistinctSubsequences.o"
 	@echo "... InterviewBit/DistinctSubsequences.i"
 	@echo "... InterviewBit/DistinctSubsequences.s"
+	@echo "... InterviewBit/EditDistance.o"
+	@echo "... InterviewBit/EditDistance.i"
+	@echo "... InterviewBit/EditDistance.s"
 	@echo "... InterviewBit/MinJumpArray.o"
 	@echo "... InterviewBit/MinJumpArray.i"
 	@echo "... InterviewBit/MinJumpArray.s"

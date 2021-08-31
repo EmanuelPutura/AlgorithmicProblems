@@ -94,6 +94,12 @@
 		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/DistinctSubsequences.h">
 			<Option target="Problems"/>
 		</Unit>
+		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/EditDistance.cpp">
+			<Option target="Problems"/>
+		</Unit>
+		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/EditDistance.h">
+			<Option target="Problems"/>
+		</Unit>
 		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/MinJumpArray.cpp">
 			<Option target="Problems"/>
 		</Unit>
