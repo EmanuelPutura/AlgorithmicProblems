@@ -82,37 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/ConvertSortedListToBST.cpp">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/ConvertSortedListToBST.h">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/DistinctSubsequences.cpp">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/DistinctSubsequences.h">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/EditDistance.cpp">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/EditDistance.h">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/MinJumpArray.cpp">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/MinJumpArray.h">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/PalindromePartitioningII.cpp">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/PalindromePartitioningII.h">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/main.cpp">
+		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestPalindromicSubstring.cpp">
 			<Option target="Problems"/>
 		</Unit>
 		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/CMakeLists.txt">

@@ -4,12 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/ConvertSortedListToBST.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.o"
-  "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/DistinctSubsequences.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.o"
-  "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/EditDistance.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.o"
-  "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/MinJumpArray.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.o"
-  "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/PalindromePartitioningII.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.o"
-  "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/main.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/InterviewBit/main.cpp.o"
+  "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestPalindromicSubstring.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

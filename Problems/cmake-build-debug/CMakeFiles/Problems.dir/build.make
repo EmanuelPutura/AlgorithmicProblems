@@ -57,105 +57,30 @@ include CMakeFiles/Problems.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Problems.dir/flags.make
 
-CMakeFiles/Problems.dir/InterviewBit/main.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/InterviewBit/main.cpp.o: ../InterviewBit/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Problems.dir/InterviewBit/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/InterviewBit/main.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/main.cpp
+CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o: CMakeFiles/Problems.dir/flags.make
+CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o: ../Leetcode/LongestPalindromicSubstring.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestPalindromicSubstring.cpp
 
-CMakeFiles/Problems.dir/InterviewBit/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/InterviewBit/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/main.cpp > CMakeFiles/Problems.dir/InterviewBit/main.cpp.i
+CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestPalindromicSubstring.cpp > CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.i
 
-CMakeFiles/Problems.dir/InterviewBit/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/InterviewBit/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/main.cpp -o CMakeFiles/Problems.dir/InterviewBit/main.cpp.s
-
-CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.o: ../InterviewBit/DistinctSubsequences.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/DistinctSubsequences.cpp
-
-CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/DistinctSubsequences.cpp > CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.i
-
-CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/DistinctSubsequences.cpp -o CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.s
-
-CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.o: ../InterviewBit/ConvertSortedListToBST.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/ConvertSortedListToBST.cpp
-
-CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/ConvertSortedListToBST.cpp > CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.i
-
-CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/ConvertSortedListToBST.cpp -o CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.s
-
-CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.o: ../InterviewBit/PalindromePartitioningII.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/PalindromePartitioningII.cpp
-
-CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/PalindromePartitioningII.cpp > CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.i
-
-CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/PalindromePartitioningII.cpp -o CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.s
-
-CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.o: ../InterviewBit/MinJumpArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/MinJumpArray.cpp
-
-CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/MinJumpArray.cpp > CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.i
-
-CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/MinJumpArray.cpp -o CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.s
-
-CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.o: ../InterviewBit/EditDistance.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/EditDistance.cpp
-
-CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/EditDistance.cpp > CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.i
-
-CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/EditDistance.cpp -o CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.s
+CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestPalindromicSubstring.cpp -o CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.s
 
 # Object files for target Problems
 Problems_OBJECTS = \
-"CMakeFiles/Problems.dir/InterviewBit/main.cpp.o" \
-"CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.o" \
-"CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.o" \
-"CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.o" \
-"CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.o" \
-"CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.o"
+"CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o"
 
 # External object files for target Problems
 Problems_EXTERNAL_OBJECTS =
 
-Problems: CMakeFiles/Problems.dir/InterviewBit/main.cpp.o
-Problems: CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.o
-Problems: CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.o
-Problems: CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.o
-Problems: CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.o
-Problems: CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.o
+Problems: CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o
 Problems: CMakeFiles/Problems.dir/build.make
 Problems: CMakeFiles/Problems.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Problems"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Problems"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Problems.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

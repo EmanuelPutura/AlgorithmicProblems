@@ -123,167 +123,32 @@ Problems/fast:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/build
 .PHONY : Problems/fast
 
-InterviewBit/ConvertSortedListToBST.o: InterviewBit/ConvertSortedListToBST.cpp.o
+Leetcode/LongestPalindromicSubstring.o: Leetcode/LongestPalindromicSubstring.cpp.o
 
-.PHONY : InterviewBit/ConvertSortedListToBST.o
-
-# target to build an object file
-InterviewBit/ConvertSortedListToBST.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.o
-.PHONY : InterviewBit/ConvertSortedListToBST.cpp.o
-
-InterviewBit/ConvertSortedListToBST.i: InterviewBit/ConvertSortedListToBST.cpp.i
-
-.PHONY : InterviewBit/ConvertSortedListToBST.i
-
-# target to preprocess a source file
-InterviewBit/ConvertSortedListToBST.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.i
-.PHONY : InterviewBit/ConvertSortedListToBST.cpp.i
-
-InterviewBit/ConvertSortedListToBST.s: InterviewBit/ConvertSortedListToBST.cpp.s
-
-.PHONY : InterviewBit/ConvertSortedListToBST.s
-
-# target to generate assembly for a file
-InterviewBit/ConvertSortedListToBST.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/ConvertSortedListToBST.cpp.s
-.PHONY : InterviewBit/ConvertSortedListToBST.cpp.s
-
-InterviewBit/DistinctSubsequences.o: InterviewBit/DistinctSubsequences.cpp.o
-
-.PHONY : InterviewBit/DistinctSubsequences.o
+.PHONY : Leetcode/LongestPalindromicSubstring.o
 
 # target to build an object file
-InterviewBit/DistinctSubsequences.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.o
-.PHONY : InterviewBit/DistinctSubsequences.cpp.o
+Leetcode/LongestPalindromicSubstring.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o
+.PHONY : Leetcode/LongestPalindromicSubstring.cpp.o
 
-InterviewBit/DistinctSubsequences.i: InterviewBit/DistinctSubsequences.cpp.i
+Leetcode/LongestPalindromicSubstring.i: Leetcode/LongestPalindromicSubstring.cpp.i
 
-.PHONY : InterviewBit/DistinctSubsequences.i
-
-# target to preprocess a source file
-InterviewBit/DistinctSubsequences.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.i
-.PHONY : InterviewBit/DistinctSubsequences.cpp.i
-
-InterviewBit/DistinctSubsequences.s: InterviewBit/DistinctSubsequences.cpp.s
-
-.PHONY : InterviewBit/DistinctSubsequences.s
-
-# target to generate assembly for a file
-InterviewBit/DistinctSubsequences.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/DistinctSubsequences.cpp.s
-.PHONY : InterviewBit/DistinctSubsequences.cpp.s
-
-InterviewBit/EditDistance.o: InterviewBit/EditDistance.cpp.o
-
-.PHONY : InterviewBit/EditDistance.o
-
-# target to build an object file
-InterviewBit/EditDistance.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.o
-.PHONY : InterviewBit/EditDistance.cpp.o
-
-InterviewBit/EditDistance.i: InterviewBit/EditDistance.cpp.i
-
-.PHONY : InterviewBit/EditDistance.i
+.PHONY : Leetcode/LongestPalindromicSubstring.i
 
 # target to preprocess a source file
-InterviewBit/EditDistance.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.i
-.PHONY : InterviewBit/EditDistance.cpp.i
+Leetcode/LongestPalindromicSubstring.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.i
+.PHONY : Leetcode/LongestPalindromicSubstring.cpp.i
 
-InterviewBit/EditDistance.s: InterviewBit/EditDistance.cpp.s
+Leetcode/LongestPalindromicSubstring.s: Leetcode/LongestPalindromicSubstring.cpp.s
 
-.PHONY : InterviewBit/EditDistance.s
-
-# target to generate assembly for a file
-InterviewBit/EditDistance.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/EditDistance.cpp.s
-.PHONY : InterviewBit/EditDistance.cpp.s
-
-InterviewBit/MinJumpArray.o: InterviewBit/MinJumpArray.cpp.o
-
-.PHONY : InterviewBit/MinJumpArray.o
-
-# target to build an object file
-InterviewBit/MinJumpArray.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.o
-.PHONY : InterviewBit/MinJumpArray.cpp.o
-
-InterviewBit/MinJumpArray.i: InterviewBit/MinJumpArray.cpp.i
-
-.PHONY : InterviewBit/MinJumpArray.i
-
-# target to preprocess a source file
-InterviewBit/MinJumpArray.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.i
-.PHONY : InterviewBit/MinJumpArray.cpp.i
-
-InterviewBit/MinJumpArray.s: InterviewBit/MinJumpArray.cpp.s
-
-.PHONY : InterviewBit/MinJumpArray.s
+.PHONY : Leetcode/LongestPalindromicSubstring.s
 
 # target to generate assembly for a file
-InterviewBit/MinJumpArray.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/MinJumpArray.cpp.s
-.PHONY : InterviewBit/MinJumpArray.cpp.s
-
-InterviewBit/PalindromePartitioningII.o: InterviewBit/PalindromePartitioningII.cpp.o
-
-.PHONY : InterviewBit/PalindromePartitioningII.o
-
-# target to build an object file
-InterviewBit/PalindromePartitioningII.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.o
-.PHONY : InterviewBit/PalindromePartitioningII.cpp.o
-
-InterviewBit/PalindromePartitioningII.i: InterviewBit/PalindromePartitioningII.cpp.i
-
-.PHONY : InterviewBit/PalindromePartitioningII.i
-
-# target to preprocess a source file
-InterviewBit/PalindromePartitioningII.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.i
-.PHONY : InterviewBit/PalindromePartitioningII.cpp.i
-
-InterviewBit/PalindromePartitioningII.s: InterviewBit/PalindromePartitioningII.cpp.s
-
-.PHONY : InterviewBit/PalindromePartitioningII.s
-
-# target to generate assembly for a file
-InterviewBit/PalindromePartitioningII.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/PalindromePartitioningII.cpp.s
-.PHONY : InterviewBit/PalindromePartitioningII.cpp.s
-
-InterviewBit/main.o: InterviewBit/main.cpp.o
-
-.PHONY : InterviewBit/main.o
-
-# target to build an object file
-InterviewBit/main.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/main.cpp.o
-.PHONY : InterviewBit/main.cpp.o
-
-InterviewBit/main.i: InterviewBit/main.cpp.i
-
-.PHONY : InterviewBit/main.i
-
-# target to preprocess a source file
-InterviewBit/main.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/main.cpp.i
-.PHONY : InterviewBit/main.cpp.i
-
-InterviewBit/main.s: InterviewBit/main.cpp.s
-
-.PHONY : InterviewBit/main.s
-
-# target to generate assembly for a file
-InterviewBit/main.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewBit/main.cpp.s
-.PHONY : InterviewBit/main.cpp.s
+Leetcode/LongestPalindromicSubstring.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.s
+.PHONY : Leetcode/LongestPalindromicSubstring.cpp.s
 
 # Help Target
 help:
@@ -294,24 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Problems"
-	@echo "... InterviewBit/ConvertSortedListToBST.o"
-	@echo "... InterviewBit/ConvertSortedListToBST.i"
-	@echo "... InterviewBit/ConvertSortedListToBST.s"
-	@echo "... InterviewBit/DistinctSubsequences.o"
-	@echo "... InterviewBit/DistinctSubsequences.i"
-	@echo "... InterviewBit/DistinctSubsequences.s"
-	@echo "... InterviewBit/EditDistance.o"
-	@echo "... InterviewBit/EditDistance.i"
-	@echo "... InterviewBit/EditDistance.s"
-	@echo "... InterviewBit/MinJumpArray.o"
-	@echo "... InterviewBit/MinJumpArray.i"
-	@echo "... InterviewBit/MinJumpArray.s"
-	@echo "... InterviewBit/PalindromePartitioningII.o"
-	@echo "... InterviewBit/PalindromePartitioningII.i"
-	@echo "... InterviewBit/PalindromePartitioningII.s"
-	@echo "... InterviewBit/main.o"
-	@echo "... InterviewBit/main.i"
-	@echo "... InterviewBit/main.s"
+	@echo "... Leetcode/LongestPalindromicSubstring.o"
+	@echo "... Leetcode/LongestPalindromicSubstring.i"
+	@echo "... Leetcode/LongestPalindromicSubstring.s"
 .PHONY : help
 
 

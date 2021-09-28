@@ -6,15 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/MinJumpArray.cpp
+/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestPalindromicSubstring.cpp
 iostream
 -
-cassert
--
-MinJumpArray.h
-/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/MinJumpArray.h
-
-/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewBit/MinJumpArray.h
-vector
+string
 -
 
