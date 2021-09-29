@@ -150,6 +150,60 @@ Leetcode/LongestPalindromicSubstring.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.s
 .PHONY : Leetcode/LongestPalindromicSubstring.cpp.s
 
+Leetcode/ValidParentheses.o: Leetcode/ValidParentheses.cpp.o
+
+.PHONY : Leetcode/ValidParentheses.o
+
+# target to build an object file
+Leetcode/ValidParentheses.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.o
+.PHONY : Leetcode/ValidParentheses.cpp.o
+
+Leetcode/ValidParentheses.i: Leetcode/ValidParentheses.cpp.i
+
+.PHONY : Leetcode/ValidParentheses.i
+
+# target to preprocess a source file
+Leetcode/ValidParentheses.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.i
+.PHONY : Leetcode/ValidParentheses.cpp.i
+
+Leetcode/ValidParentheses.s: Leetcode/ValidParentheses.cpp.s
+
+.PHONY : Leetcode/ValidParentheses.s
+
+# target to generate assembly for a file
+Leetcode/ValidParentheses.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.s
+.PHONY : Leetcode/ValidParentheses.cpp.s
+
+Leetcode/main.o: Leetcode/main.cpp.o
+
+.PHONY : Leetcode/main.o
+
+# target to build an object file
+Leetcode/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/main.cpp.o
+.PHONY : Leetcode/main.cpp.o
+
+Leetcode/main.i: Leetcode/main.cpp.i
+
+.PHONY : Leetcode/main.i
+
+# target to preprocess a source file
+Leetcode/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/main.cpp.i
+.PHONY : Leetcode/main.cpp.i
+
+Leetcode/main.s: Leetcode/main.cpp.s
+
+.PHONY : Leetcode/main.s
+
+# target to generate assembly for a file
+Leetcode/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/main.cpp.s
+.PHONY : Leetcode/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +216,12 @@ help:
 	@echo "... Leetcode/LongestPalindromicSubstring.o"
 	@echo "... Leetcode/LongestPalindromicSubstring.i"
 	@echo "... Leetcode/LongestPalindromicSubstring.s"
+	@echo "... Leetcode/ValidParentheses.o"
+	@echo "... Leetcode/ValidParentheses.i"
+	@echo "... Leetcode/ValidParentheses.s"
+	@echo "... Leetcode/main.o"
+	@echo "... Leetcode/main.i"
+	@echo "... Leetcode/main.s"
 .PHONY : help
 
 

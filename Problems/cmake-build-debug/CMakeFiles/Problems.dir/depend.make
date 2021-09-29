@@ -3,3 +3,7 @@
 
 CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o: ../Leetcode/LongestPalindromicSubstring.cpp
 
+CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.o: ../Leetcode/ValidParentheses.cpp
+
+CMakeFiles/Problems.dir/Leetcode/main.cpp.o: ../Leetcode/main.cpp
+

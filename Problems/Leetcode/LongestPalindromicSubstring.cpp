@@ -47,8 +47,3 @@ string longestPalindrome(string s) {
 
     return result;
 }
-
-int main() {
-    std::cout << longestPalindrome("aabaaabab") << '\n';
-    return 0;
-}
