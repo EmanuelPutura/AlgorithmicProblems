@@ -85,6 +85,9 @@
 		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestPalindromicSubstring.cpp">
 			<Option target="Problems"/>
 		</Unit>
+		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp">
+			<Option target="Problems"/>
+		</Unit>
 		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/PalindromeLinkedList.cpp">
 			<Option target="Problems"/>
 		</Unit>

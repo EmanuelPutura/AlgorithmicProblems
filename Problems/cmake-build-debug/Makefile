@@ -150,6 +150,33 @@ Leetcode/LongestPalindromicSubstring.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.s
 .PHONY : Leetcode/LongestPalindromicSubstring.cpp.s
 
+Leetcode/LongestSubstringWithoutRepeatingCharacters.o: Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o
+
+.PHONY : Leetcode/LongestSubstringWithoutRepeatingCharacters.o
+
+# target to build an object file
+Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o
+.PHONY : Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o
+
+Leetcode/LongestSubstringWithoutRepeatingCharacters.i: Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.i
+
+.PHONY : Leetcode/LongestSubstringWithoutRepeatingCharacters.i
+
+# target to preprocess a source file
+Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.i
+.PHONY : Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.i
+
+Leetcode/LongestSubstringWithoutRepeatingCharacters.s: Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.s
+
+.PHONY : Leetcode/LongestSubstringWithoutRepeatingCharacters.s
+
+# target to generate assembly for a file
+Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.s
+.PHONY : Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.s
+
 Leetcode/PalindromeLinkedList.o: Leetcode/PalindromeLinkedList.cpp.o
 
 .PHONY : Leetcode/PalindromeLinkedList.o
@@ -243,6 +270,9 @@ help:
 	@echo "... Leetcode/LongestPalindromicSubstring.o"
 	@echo "... Leetcode/LongestPalindromicSubstring.i"
 	@echo "... Leetcode/LongestPalindromicSubstring.s"
+	@echo "... Leetcode/LongestSubstringWithoutRepeatingCharacters.o"
+	@echo "... Leetcode/LongestSubstringWithoutRepeatingCharacters.i"
+	@echo "... Leetcode/LongestSubstringWithoutRepeatingCharacters.s"
 	@echo "... Leetcode/PalindromeLinkedList.o"
 	@echo "... Leetcode/PalindromeLinkedList.i"
 	@echo "... Leetcode/PalindromeLinkedList.s"
