@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestPalindromicSubstring.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o"
+  "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/PalindromeLinkedList.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.o"
   "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/ValidParentheses.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.o"
   "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/main.cpp" "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/Leetcode/main.cpp.o"
   )
