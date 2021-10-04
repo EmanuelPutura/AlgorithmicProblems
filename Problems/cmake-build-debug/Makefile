@@ -177,6 +177,33 @@ Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.s
 .PHONY : Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.s
 
+Leetcode/MaximizeTheConfusionOfAnExam.o: Leetcode/MaximizeTheConfusionOfAnExam.cpp.o
+
+.PHONY : Leetcode/MaximizeTheConfusionOfAnExam.o
+
+# target to build an object file
+Leetcode/MaximizeTheConfusionOfAnExam.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.o
+.PHONY : Leetcode/MaximizeTheConfusionOfAnExam.cpp.o
+
+Leetcode/MaximizeTheConfusionOfAnExam.i: Leetcode/MaximizeTheConfusionOfAnExam.cpp.i
+
+.PHONY : Leetcode/MaximizeTheConfusionOfAnExam.i
+
+# target to preprocess a source file
+Leetcode/MaximizeTheConfusionOfAnExam.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.i
+.PHONY : Leetcode/MaximizeTheConfusionOfAnExam.cpp.i
+
+Leetcode/MaximizeTheConfusionOfAnExam.s: Leetcode/MaximizeTheConfusionOfAnExam.cpp.s
+
+.PHONY : Leetcode/MaximizeTheConfusionOfAnExam.s
+
+# target to generate assembly for a file
+Leetcode/MaximizeTheConfusionOfAnExam.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.s
+.PHONY : Leetcode/MaximizeTheConfusionOfAnExam.cpp.s
+
 Leetcode/PalindromeLinkedList.o: Leetcode/PalindromeLinkedList.cpp.o
 
 .PHONY : Leetcode/PalindromeLinkedList.o
@@ -300,6 +327,9 @@ help:
 	@echo "... Leetcode/LongestSubstringWithoutRepeatingCharacters.o"
 	@echo "... Leetcode/LongestSubstringWithoutRepeatingCharacters.i"
 	@echo "... Leetcode/LongestSubstringWithoutRepeatingCharacters.s"
+	@echo "... Leetcode/MaximizeTheConfusionOfAnExam.o"
+	@echo "... Leetcode/MaximizeTheConfusionOfAnExam.i"
+	@echo "... Leetcode/MaximizeTheConfusionOfAnExam.s"
 	@echo "... Leetcode/PalindromeLinkedList.o"
 	@echo "... Leetcode/PalindromeLinkedList.i"
 	@echo "... Leetcode/PalindromeLinkedList.s"
