@@ -204,6 +204,33 @@ Leetcode/PalindromeLinkedList.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.s
 .PHONY : Leetcode/PalindromeLinkedList.cpp.s
 
+Leetcode/TrimaBinarySearchTree.o: Leetcode/TrimaBinarySearchTree.cpp.o
+
+.PHONY : Leetcode/TrimaBinarySearchTree.o
+
+# target to build an object file
+Leetcode/TrimaBinarySearchTree.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.o
+.PHONY : Leetcode/TrimaBinarySearchTree.cpp.o
+
+Leetcode/TrimaBinarySearchTree.i: Leetcode/TrimaBinarySearchTree.cpp.i
+
+.PHONY : Leetcode/TrimaBinarySearchTree.i
+
+# target to preprocess a source file
+Leetcode/TrimaBinarySearchTree.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.i
+.PHONY : Leetcode/TrimaBinarySearchTree.cpp.i
+
+Leetcode/TrimaBinarySearchTree.s: Leetcode/TrimaBinarySearchTree.cpp.s
+
+.PHONY : Leetcode/TrimaBinarySearchTree.s
+
+# target to generate assembly for a file
+Leetcode/TrimaBinarySearchTree.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.s
+.PHONY : Leetcode/TrimaBinarySearchTree.cpp.s
+
 Leetcode/ValidParentheses.o: Leetcode/ValidParentheses.cpp.o
 
 .PHONY : Leetcode/ValidParentheses.o
@@ -276,6 +303,9 @@ help:
 	@echo "... Leetcode/PalindromeLinkedList.o"
 	@echo "... Leetcode/PalindromeLinkedList.i"
 	@echo "... Leetcode/PalindromeLinkedList.s"
+	@echo "... Leetcode/TrimaBinarySearchTree.o"
+	@echo "... Leetcode/TrimaBinarySearchTree.i"
+	@echo "... Leetcode/TrimaBinarySearchTree.s"
 	@echo "... Leetcode/ValidParentheses.o"
 	@echo "... Leetcode/ValidParentheses.i"
 	@echo "... Leetcode/ValidParentheses.s"

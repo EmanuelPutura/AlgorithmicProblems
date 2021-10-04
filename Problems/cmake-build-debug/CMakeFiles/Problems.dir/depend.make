@@ -7,6 +7,8 @@ CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.
 
 CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.o: ../Leetcode/PalindromeLinkedList.cpp
 
+CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.o: ../Leetcode/TrimaBinarySearchTree.cpp
+
 CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.o: ../Leetcode/ValidParentheses.cpp
 
 CMakeFiles/Problems.dir/Leetcode/main.cpp.o: ../Leetcode/main.cpp

@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.o"
+  "CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/main.cpp.o"
   "Problems"

@@ -6,9 +6,5 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp
-string
--
-unordered_map
--
+/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/TrimaBinarySearchTree.cpp
 
