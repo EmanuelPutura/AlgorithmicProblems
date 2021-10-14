@@ -123,194 +123,59 @@ Problems/fast:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/build
 .PHONY : Problems/fast
 
-Leetcode/LongestPalindromicSubstring.o: Leetcode/LongestPalindromicSubstring.cpp.o
+Leetcode/IncreasingTripletSubsequence.o: Leetcode/IncreasingTripletSubsequence.cpp.o
 
-.PHONY : Leetcode/LongestPalindromicSubstring.o
-
-# target to build an object file
-Leetcode/LongestPalindromicSubstring.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o
-.PHONY : Leetcode/LongestPalindromicSubstring.cpp.o
-
-Leetcode/LongestPalindromicSubstring.i: Leetcode/LongestPalindromicSubstring.cpp.i
-
-.PHONY : Leetcode/LongestPalindromicSubstring.i
-
-# target to preprocess a source file
-Leetcode/LongestPalindromicSubstring.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.i
-.PHONY : Leetcode/LongestPalindromicSubstring.cpp.i
-
-Leetcode/LongestPalindromicSubstring.s: Leetcode/LongestPalindromicSubstring.cpp.s
-
-.PHONY : Leetcode/LongestPalindromicSubstring.s
-
-# target to generate assembly for a file
-Leetcode/LongestPalindromicSubstring.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.s
-.PHONY : Leetcode/LongestPalindromicSubstring.cpp.s
-
-Leetcode/LongestSubstringWithoutRepeatingCharacters.o: Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o
-
-.PHONY : Leetcode/LongestSubstringWithoutRepeatingCharacters.o
+.PHONY : Leetcode/IncreasingTripletSubsequence.o
 
 # target to build an object file
-Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o
-.PHONY : Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o
+Leetcode/IncreasingTripletSubsequence.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.o
+.PHONY : Leetcode/IncreasingTripletSubsequence.cpp.o
 
-Leetcode/LongestSubstringWithoutRepeatingCharacters.i: Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.i
+Leetcode/IncreasingTripletSubsequence.i: Leetcode/IncreasingTripletSubsequence.cpp.i
 
-.PHONY : Leetcode/LongestSubstringWithoutRepeatingCharacters.i
+.PHONY : Leetcode/IncreasingTripletSubsequence.i
 
 # target to preprocess a source file
-Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.i
-.PHONY : Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.i
+Leetcode/IncreasingTripletSubsequence.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.i
+.PHONY : Leetcode/IncreasingTripletSubsequence.cpp.i
 
-Leetcode/LongestSubstringWithoutRepeatingCharacters.s: Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.s
+Leetcode/IncreasingTripletSubsequence.s: Leetcode/IncreasingTripletSubsequence.cpp.s
 
-.PHONY : Leetcode/LongestSubstringWithoutRepeatingCharacters.s
+.PHONY : Leetcode/IncreasingTripletSubsequence.s
 
 # target to generate assembly for a file
-Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.s
-.PHONY : Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.s
+Leetcode/IncreasingTripletSubsequence.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.s
+.PHONY : Leetcode/IncreasingTripletSubsequence.cpp.s
 
-Leetcode/MaximizeTheConfusionOfAnExam.o: Leetcode/MaximizeTheConfusionOfAnExam.cpp.o
+Others/GameOfThrones.o: Others/GameOfThrones.cpp.o
 
-.PHONY : Leetcode/MaximizeTheConfusionOfAnExam.o
+.PHONY : Others/GameOfThrones.o
 
 # target to build an object file
-Leetcode/MaximizeTheConfusionOfAnExam.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.o
-.PHONY : Leetcode/MaximizeTheConfusionOfAnExam.cpp.o
+Others/GameOfThrones.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.o
+.PHONY : Others/GameOfThrones.cpp.o
 
-Leetcode/MaximizeTheConfusionOfAnExam.i: Leetcode/MaximizeTheConfusionOfAnExam.cpp.i
+Others/GameOfThrones.i: Others/GameOfThrones.cpp.i
 
-.PHONY : Leetcode/MaximizeTheConfusionOfAnExam.i
-
-# target to preprocess a source file
-Leetcode/MaximizeTheConfusionOfAnExam.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.i
-.PHONY : Leetcode/MaximizeTheConfusionOfAnExam.cpp.i
-
-Leetcode/MaximizeTheConfusionOfAnExam.s: Leetcode/MaximizeTheConfusionOfAnExam.cpp.s
-
-.PHONY : Leetcode/MaximizeTheConfusionOfAnExam.s
-
-# target to generate assembly for a file
-Leetcode/MaximizeTheConfusionOfAnExam.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.s
-.PHONY : Leetcode/MaximizeTheConfusionOfAnExam.cpp.s
-
-Leetcode/PalindromeLinkedList.o: Leetcode/PalindromeLinkedList.cpp.o
-
-.PHONY : Leetcode/PalindromeLinkedList.o
-
-# target to build an object file
-Leetcode/PalindromeLinkedList.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.o
-.PHONY : Leetcode/PalindromeLinkedList.cpp.o
-
-Leetcode/PalindromeLinkedList.i: Leetcode/PalindromeLinkedList.cpp.i
-
-.PHONY : Leetcode/PalindromeLinkedList.i
+.PHONY : Others/GameOfThrones.i
 
 # target to preprocess a source file
-Leetcode/PalindromeLinkedList.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.i
-.PHONY : Leetcode/PalindromeLinkedList.cpp.i
+Others/GameOfThrones.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.i
+.PHONY : Others/GameOfThrones.cpp.i
 
-Leetcode/PalindromeLinkedList.s: Leetcode/PalindromeLinkedList.cpp.s
+Others/GameOfThrones.s: Others/GameOfThrones.cpp.s
 
-.PHONY : Leetcode/PalindromeLinkedList.s
-
-# target to generate assembly for a file
-Leetcode/PalindromeLinkedList.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.s
-.PHONY : Leetcode/PalindromeLinkedList.cpp.s
-
-Leetcode/TrimaBinarySearchTree.o: Leetcode/TrimaBinarySearchTree.cpp.o
-
-.PHONY : Leetcode/TrimaBinarySearchTree.o
-
-# target to build an object file
-Leetcode/TrimaBinarySearchTree.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.o
-.PHONY : Leetcode/TrimaBinarySearchTree.cpp.o
-
-Leetcode/TrimaBinarySearchTree.i: Leetcode/TrimaBinarySearchTree.cpp.i
-
-.PHONY : Leetcode/TrimaBinarySearchTree.i
-
-# target to preprocess a source file
-Leetcode/TrimaBinarySearchTree.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.i
-.PHONY : Leetcode/TrimaBinarySearchTree.cpp.i
-
-Leetcode/TrimaBinarySearchTree.s: Leetcode/TrimaBinarySearchTree.cpp.s
-
-.PHONY : Leetcode/TrimaBinarySearchTree.s
+.PHONY : Others/GameOfThrones.s
 
 # target to generate assembly for a file
-Leetcode/TrimaBinarySearchTree.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.s
-.PHONY : Leetcode/TrimaBinarySearchTree.cpp.s
-
-Leetcode/ValidParentheses.o: Leetcode/ValidParentheses.cpp.o
-
-.PHONY : Leetcode/ValidParentheses.o
-
-# target to build an object file
-Leetcode/ValidParentheses.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.o
-.PHONY : Leetcode/ValidParentheses.cpp.o
-
-Leetcode/ValidParentheses.i: Leetcode/ValidParentheses.cpp.i
-
-.PHONY : Leetcode/ValidParentheses.i
-
-# target to preprocess a source file
-Leetcode/ValidParentheses.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.i
-.PHONY : Leetcode/ValidParentheses.cpp.i
-
-Leetcode/ValidParentheses.s: Leetcode/ValidParentheses.cpp.s
-
-.PHONY : Leetcode/ValidParentheses.s
-
-# target to generate assembly for a file
-Leetcode/ValidParentheses.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.s
-.PHONY : Leetcode/ValidParentheses.cpp.s
-
-Leetcode/main.o: Leetcode/main.cpp.o
-
-.PHONY : Leetcode/main.o
-
-# target to build an object file
-Leetcode/main.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/main.cpp.o
-.PHONY : Leetcode/main.cpp.o
-
-Leetcode/main.i: Leetcode/main.cpp.i
-
-.PHONY : Leetcode/main.i
-
-# target to preprocess a source file
-Leetcode/main.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/main.cpp.i
-.PHONY : Leetcode/main.cpp.i
-
-Leetcode/main.s: Leetcode/main.cpp.s
-
-.PHONY : Leetcode/main.s
-
-# target to generate assembly for a file
-Leetcode/main.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/main.cpp.s
-.PHONY : Leetcode/main.cpp.s
+Others/GameOfThrones.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.s
+.PHONY : Others/GameOfThrones.cpp.s
 
 # Help Target
 help:
@@ -321,27 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Problems"
-	@echo "... Leetcode/LongestPalindromicSubstring.o"
-	@echo "... Leetcode/LongestPalindromicSubstring.i"
-	@echo "... Leetcode/LongestPalindromicSubstring.s"
-	@echo "... Leetcode/LongestSubstringWithoutRepeatingCharacters.o"
-	@echo "... Leetcode/LongestSubstringWithoutRepeatingCharacters.i"
-	@echo "... Leetcode/LongestSubstringWithoutRepeatingCharacters.s"
-	@echo "... Leetcode/MaximizeTheConfusionOfAnExam.o"
-	@echo "... Leetcode/MaximizeTheConfusionOfAnExam.i"
-	@echo "... Leetcode/MaximizeTheConfusionOfAnExam.s"
-	@echo "... Leetcode/PalindromeLinkedList.o"
-	@echo "... Leetcode/PalindromeLinkedList.i"
-	@echo "... Leetcode/PalindromeLinkedList.s"
-	@echo "... Leetcode/TrimaBinarySearchTree.o"
-	@echo "... Leetcode/TrimaBinarySearchTree.i"
-	@echo "... Leetcode/TrimaBinarySearchTree.s"
-	@echo "... Leetcode/ValidParentheses.o"
-	@echo "... Leetcode/ValidParentheses.i"
-	@echo "... Leetcode/ValidParentheses.s"
-	@echo "... Leetcode/main.o"
-	@echo "... Leetcode/main.i"
-	@echo "... Leetcode/main.s"
+	@echo "... Leetcode/IncreasingTripletSubsequence.o"
+	@echo "... Leetcode/IncreasingTripletSubsequence.i"
+	@echo "... Leetcode/IncreasingTripletSubsequence.s"
+	@echo "... Others/GameOfThrones.o"
+	@echo "... Others/GameOfThrones.i"
+	@echo "... Others/GameOfThrones.s"
 .PHONY : help
 
 

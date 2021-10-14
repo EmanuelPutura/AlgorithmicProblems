@@ -82,28 +82,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestPalindromicSubstring.cpp">
+		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/IncreasingTripletSubsequence.cpp">
 			<Option target="Problems"/>
 		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/MaximizeTheConfusionOfAnExam.cpp">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/MaximizeTheConfusionOfAnExam.h">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/PalindromeLinkedList.cpp">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/TrimaBinarySearchTree.cpp">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/ValidParentheses.cpp">
-			<Option target="Problems"/>
-		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/main.cpp">
+		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Others/GameOfThrones.cpp">
 			<Option target="Problems"/>
 		</Unit>
 		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/CMakeLists.txt">

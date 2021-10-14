@@ -57,120 +57,45 @@ include CMakeFiles/Problems.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Problems.dir/flags.make
 
-CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o: ../Leetcode/LongestPalindromicSubstring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestPalindromicSubstring.cpp
+CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.o: CMakeFiles/Problems.dir/flags.make
+CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.o: ../Others/GameOfThrones.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Others/GameOfThrones.cpp
 
-CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestPalindromicSubstring.cpp > CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.i
+CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Others/GameOfThrones.cpp > CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.i
 
-CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestPalindromicSubstring.cpp -o CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.s
+CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Others/GameOfThrones.cpp -o CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.s
 
-CMakeFiles/Problems.dir/Leetcode/main.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/Leetcode/main.cpp.o: ../Leetcode/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Problems.dir/Leetcode/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Leetcode/main.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/main.cpp
+CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.o: CMakeFiles/Problems.dir/flags.make
+CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.o: ../Leetcode/IncreasingTripletSubsequence.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/IncreasingTripletSubsequence.cpp
 
-CMakeFiles/Problems.dir/Leetcode/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Leetcode/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/main.cpp > CMakeFiles/Problems.dir/Leetcode/main.cpp.i
+CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/IncreasingTripletSubsequence.cpp > CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.i
 
-CMakeFiles/Problems.dir/Leetcode/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/main.cpp -o CMakeFiles/Problems.dir/Leetcode/main.cpp.s
-
-CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.o: ../Leetcode/ValidParentheses.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/ValidParentheses.cpp
-
-CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/ValidParentheses.cpp > CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.i
-
-CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/ValidParentheses.cpp -o CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.s
-
-CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.o: ../Leetcode/PalindromeLinkedList.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/PalindromeLinkedList.cpp
-
-CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/PalindromeLinkedList.cpp > CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.i
-
-CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/PalindromeLinkedList.cpp -o CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.s
-
-CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o: ../Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp
-
-CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp > CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.i
-
-CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp -o CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.s
-
-CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.o: ../Leetcode/TrimaBinarySearchTree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/TrimaBinarySearchTree.cpp
-
-CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/TrimaBinarySearchTree.cpp > CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.i
-
-CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/TrimaBinarySearchTree.cpp -o CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.s
-
-CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.o: ../Leetcode/MaximizeTheConfusionOfAnExam.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/MaximizeTheConfusionOfAnExam.cpp
-
-CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/MaximizeTheConfusionOfAnExam.cpp > CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.i
-
-CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/MaximizeTheConfusionOfAnExam.cpp -o CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.s
+CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/IncreasingTripletSubsequence.cpp -o CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.s
 
 # Object files for target Problems
 Problems_OBJECTS = \
-"CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o" \
-"CMakeFiles/Problems.dir/Leetcode/main.cpp.o" \
-"CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.o" \
-"CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.o" \
-"CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o" \
-"CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.o" \
-"CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.o"
+"CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.o" \
+"CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.o"
 
 # External object files for target Problems
 Problems_EXTERNAL_OBJECTS =
 
-Problems: CMakeFiles/Problems.dir/Leetcode/LongestPalindromicSubstring.cpp.o
-Problems: CMakeFiles/Problems.dir/Leetcode/main.cpp.o
-Problems: CMakeFiles/Problems.dir/Leetcode/ValidParentheses.cpp.o
-Problems: CMakeFiles/Problems.dir/Leetcode/PalindromeLinkedList.cpp.o
-Problems: CMakeFiles/Problems.dir/Leetcode/LongestSubstringWithoutRepeatingCharacters.cpp.o
-Problems: CMakeFiles/Problems.dir/Leetcode/TrimaBinarySearchTree.cpp.o
-Problems: CMakeFiles/Problems.dir/Leetcode/MaximizeTheConfusionOfAnExam.cpp.o
+Problems: CMakeFiles/Problems.dir/Others/GameOfThrones.cpp.o
+Problems: CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.o
 Problems: CMakeFiles/Problems.dir/build.make
 Problems: CMakeFiles/Problems.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Problems"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Problems"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Problems.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -6,5 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/TrimaBinarySearchTree.cpp
+/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Others/GameOfThrones.cpp
+iostream
+-
+vector
+-
 
