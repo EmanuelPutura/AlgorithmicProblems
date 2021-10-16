@@ -258,6 +258,33 @@ Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s
 .PHONY : Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s
 
+Leetcode/PopulatingNextRightPointersInEachNodeII.o: Leetcode/PopulatingNextRightPointersInEachNodeII.cpp.o
+
+.PHONY : Leetcode/PopulatingNextRightPointersInEachNodeII.o
+
+# target to build an object file
+Leetcode/PopulatingNextRightPointersInEachNodeII.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/PopulatingNextRightPointersInEachNodeII.cpp.o
+.PHONY : Leetcode/PopulatingNextRightPointersInEachNodeII.cpp.o
+
+Leetcode/PopulatingNextRightPointersInEachNodeII.i: Leetcode/PopulatingNextRightPointersInEachNodeII.cpp.i
+
+.PHONY : Leetcode/PopulatingNextRightPointersInEachNodeII.i
+
+# target to preprocess a source file
+Leetcode/PopulatingNextRightPointersInEachNodeII.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/PopulatingNextRightPointersInEachNodeII.cpp.i
+.PHONY : Leetcode/PopulatingNextRightPointersInEachNodeII.cpp.i
+
+Leetcode/PopulatingNextRightPointersInEachNodeII.s: Leetcode/PopulatingNextRightPointersInEachNodeII.cpp.s
+
+.PHONY : Leetcode/PopulatingNextRightPointersInEachNodeII.s
+
+# target to generate assembly for a file
+Leetcode/PopulatingNextRightPointersInEachNodeII.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/PopulatingNextRightPointersInEachNodeII.cpp.s
+.PHONY : Leetcode/PopulatingNextRightPointersInEachNodeII.cpp.s
+
 Leetcode/ProductOfArrayExceptSelf.o: Leetcode/ProductOfArrayExceptSelf.cpp.o
 
 .PHONY : Leetcode/ProductOfArrayExceptSelf.o
@@ -444,6 +471,9 @@ help:
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.o"
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.i"
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.s"
+	@echo "... Leetcode/PopulatingNextRightPointersInEachNodeII.o"
+	@echo "... Leetcode/PopulatingNextRightPointersInEachNodeII.i"
+	@echo "... Leetcode/PopulatingNextRightPointersInEachNodeII.s"
 	@echo "... Leetcode/ProductOfArrayExceptSelf.o"
 	@echo "... Leetcode/ProductOfArrayExceptSelf.i"
 	@echo "... Leetcode/ProductOfArrayExceptSelf.s"
