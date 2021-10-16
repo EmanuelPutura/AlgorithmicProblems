@@ -150,6 +150,33 @@ Leetcode/IncreasingTripletSubsequence.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.s
 .PHONY : Leetcode/IncreasingTripletSubsequence.cpp.s
 
+Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.o: Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.o
+
+.PHONY : Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.o
+
+# target to build an object file
+Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.o
+.PHONY : Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.o
+
+Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.i: Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.i
+
+.PHONY : Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.i
+
+# target to preprocess a source file
+Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.i
+.PHONY : Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.i
+
+Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.s: Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s
+
+.PHONY : Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.s
+
+# target to generate assembly for a file
+Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s
+.PHONY : Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s
+
 Leetcode/RangeAddition2.o: Leetcode/RangeAddition2.cpp.o
 
 .PHONY : Leetcode/RangeAddition2.o
@@ -243,6 +270,9 @@ help:
 	@echo "... Leetcode/IncreasingTripletSubsequence.o"
 	@echo "... Leetcode/IncreasingTripletSubsequence.i"
 	@echo "... Leetcode/IncreasingTripletSubsequence.s"
+	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.o"
+	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.i"
+	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.s"
 	@echo "... Leetcode/RangeAddition2.o"
 	@echo "... Leetcode/RangeAddition2.i"
 	@echo "... Leetcode/RangeAddition2.s"
