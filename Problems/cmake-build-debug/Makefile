@@ -177,6 +177,33 @@ Leetcode/RangeAddition2.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/RangeAddition2.cpp.s
 .PHONY : Leetcode/RangeAddition2.cpp.s
 
+Leetcode/UniqueNumberOfOccurrences.o: Leetcode/UniqueNumberOfOccurrences.cpp.o
+
+.PHONY : Leetcode/UniqueNumberOfOccurrences.o
+
+# target to build an object file
+Leetcode/UniqueNumberOfOccurrences.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/UniqueNumberOfOccurrences.cpp.o
+.PHONY : Leetcode/UniqueNumberOfOccurrences.cpp.o
+
+Leetcode/UniqueNumberOfOccurrences.i: Leetcode/UniqueNumberOfOccurrences.cpp.i
+
+.PHONY : Leetcode/UniqueNumberOfOccurrences.i
+
+# target to preprocess a source file
+Leetcode/UniqueNumberOfOccurrences.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/UniqueNumberOfOccurrences.cpp.i
+.PHONY : Leetcode/UniqueNumberOfOccurrences.cpp.i
+
+Leetcode/UniqueNumberOfOccurrences.s: Leetcode/UniqueNumberOfOccurrences.cpp.s
+
+.PHONY : Leetcode/UniqueNumberOfOccurrences.s
+
+# target to generate assembly for a file
+Leetcode/UniqueNumberOfOccurrences.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/UniqueNumberOfOccurrences.cpp.s
+.PHONY : Leetcode/UniqueNumberOfOccurrences.cpp.s
+
 Others/GameOfThrones.o: Others/GameOfThrones.cpp.o
 
 .PHONY : Others/GameOfThrones.o
@@ -219,6 +246,9 @@ help:
 	@echo "... Leetcode/RangeAddition2.o"
 	@echo "... Leetcode/RangeAddition2.i"
 	@echo "... Leetcode/RangeAddition2.s"
+	@echo "... Leetcode/UniqueNumberOfOccurrences.o"
+	@echo "... Leetcode/UniqueNumberOfOccurrences.i"
+	@echo "... Leetcode/UniqueNumberOfOccurrences.s"
 	@echo "... Others/GameOfThrones.o"
 	@echo "... Others/GameOfThrones.i"
 	@echo "... Others/GameOfThrones.s"
