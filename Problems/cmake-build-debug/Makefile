@@ -150,6 +150,33 @@ Leetcode/AddTwoNumbers.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/AddTwoNumbers.cpp.s
 .PHONY : Leetcode/AddTwoNumbers.cpp.s
 
+Leetcode/DesignUndergroundSystem.o: Leetcode/DesignUndergroundSystem.cpp.o
+
+.PHONY : Leetcode/DesignUndergroundSystem.o
+
+# target to build an object file
+Leetcode/DesignUndergroundSystem.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/DesignUndergroundSystem.cpp.o
+.PHONY : Leetcode/DesignUndergroundSystem.cpp.o
+
+Leetcode/DesignUndergroundSystem.i: Leetcode/DesignUndergroundSystem.cpp.i
+
+.PHONY : Leetcode/DesignUndergroundSystem.i
+
+# target to preprocess a source file
+Leetcode/DesignUndergroundSystem.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/DesignUndergroundSystem.cpp.i
+.PHONY : Leetcode/DesignUndergroundSystem.cpp.i
+
+Leetcode/DesignUndergroundSystem.s: Leetcode/DesignUndergroundSystem.cpp.s
+
+.PHONY : Leetcode/DesignUndergroundSystem.s
+
+# target to generate assembly for a file
+Leetcode/DesignUndergroundSystem.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/DesignUndergroundSystem.cpp.s
+.PHONY : Leetcode/DesignUndergroundSystem.cpp.s
+
 Leetcode/IncreasingTripletSubsequence.o: Leetcode/IncreasingTripletSubsequence.cpp.o
 
 .PHONY : Leetcode/IncreasingTripletSubsequence.o
@@ -378,6 +405,9 @@ help:
 	@echo "... Leetcode/AddTwoNumbers.o"
 	@echo "... Leetcode/AddTwoNumbers.i"
 	@echo "... Leetcode/AddTwoNumbers.s"
+	@echo "... Leetcode/DesignUndergroundSystem.o"
+	@echo "... Leetcode/DesignUndergroundSystem.i"
+	@echo "... Leetcode/DesignUndergroundSystem.s"
 	@echo "... Leetcode/IncreasingTripletSubsequence.o"
 	@echo "... Leetcode/IncreasingTripletSubsequence.i"
 	@echo "... Leetcode/IncreasingTripletSubsequence.s"
