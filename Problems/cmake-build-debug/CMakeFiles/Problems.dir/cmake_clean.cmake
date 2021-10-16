@@ -7,6 +7,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Problems.dir/Leetcode/PopulatingNextRightPointersInEachNodeII.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/ProductOfArrayExceptSelf.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/RangeAddition2.cpp.o"
+  "CMakeFiles/Problems.dir/Leetcode/SlidingWindowMaximum.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/Sqrt(x).cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/UniqueNumberOfOccurrences.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/ValidateBinarySearchTree.cpp.o"
