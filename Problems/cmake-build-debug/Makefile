@@ -312,6 +312,33 @@ Leetcode/RangeAddition2.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/RangeAddition2.cpp.s
 .PHONY : Leetcode/RangeAddition2.cpp.s
 
+Leetcode/Sqrt(x).o: Leetcode/Sqrt(x).cpp.o
+
+.PHONY : Leetcode/Sqrt(x).o
+
+# target to build an object file
+Leetcode/Sqrt(x).cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make "CMakeFiles/Problems.dir/Leetcode/Sqrt(x).cpp.o"
+.PHONY : Leetcode/Sqrt(x).cpp.o
+
+Leetcode/Sqrt(x).i: Leetcode/Sqrt(x).cpp.i
+
+.PHONY : Leetcode/Sqrt(x).i
+
+# target to preprocess a source file
+Leetcode/Sqrt(x).cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make "CMakeFiles/Problems.dir/Leetcode/Sqrt(x).cpp.i"
+.PHONY : Leetcode/Sqrt(x).cpp.i
+
+Leetcode/Sqrt(x).s: Leetcode/Sqrt(x).cpp.s
+
+.PHONY : Leetcode/Sqrt(x).s
+
+# target to generate assembly for a file
+Leetcode/Sqrt(x).cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make "CMakeFiles/Problems.dir/Leetcode/Sqrt(x).cpp.s"
+.PHONY : Leetcode/Sqrt(x).cpp.s
+
 Leetcode/UniqueNumberOfOccurrences.o: Leetcode/UniqueNumberOfOccurrences.cpp.o
 
 .PHONY : Leetcode/UniqueNumberOfOccurrences.o
@@ -423,6 +450,9 @@ help:
 	@echo "... Leetcode/RangeAddition2.o"
 	@echo "... Leetcode/RangeAddition2.i"
 	@echo "... Leetcode/RangeAddition2.s"
+	@echo "... Leetcode/Sqrt(x).o"
+	@echo "... Leetcode/Sqrt(x).i"
+	@echo "... Leetcode/Sqrt(x).s"
 	@echo "... Leetcode/UniqueNumberOfOccurrences.o"
 	@echo "... Leetcode/UniqueNumberOfOccurrences.i"
 	@echo "... Leetcode/UniqueNumberOfOccurrences.s"
