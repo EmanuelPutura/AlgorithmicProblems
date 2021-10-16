@@ -88,6 +88,9 @@
 		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/IncreasingTripletSubsequence.cpp">
 			<Option target="Problems"/>
 		</Unit>
+		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/MinimumAbsoluteDifference.cpp">
+			<Option target="Problems"/>
+		</Unit>
 		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp">
 			<Option target="Problems"/>
 		</Unit>

@@ -177,6 +177,33 @@ Leetcode/IncreasingTripletSubsequence.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.s
 .PHONY : Leetcode/IncreasingTripletSubsequence.cpp.s
 
+Leetcode/MinimumAbsoluteDifference.o: Leetcode/MinimumAbsoluteDifference.cpp.o
+
+.PHONY : Leetcode/MinimumAbsoluteDifference.o
+
+# target to build an object file
+Leetcode/MinimumAbsoluteDifference.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MinimumAbsoluteDifference.cpp.o
+.PHONY : Leetcode/MinimumAbsoluteDifference.cpp.o
+
+Leetcode/MinimumAbsoluteDifference.i: Leetcode/MinimumAbsoluteDifference.cpp.i
+
+.PHONY : Leetcode/MinimumAbsoluteDifference.i
+
+# target to preprocess a source file
+Leetcode/MinimumAbsoluteDifference.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MinimumAbsoluteDifference.cpp.i
+.PHONY : Leetcode/MinimumAbsoluteDifference.cpp.i
+
+Leetcode/MinimumAbsoluteDifference.s: Leetcode/MinimumAbsoluteDifference.cpp.s
+
+.PHONY : Leetcode/MinimumAbsoluteDifference.s
+
+# target to generate assembly for a file
+Leetcode/MinimumAbsoluteDifference.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MinimumAbsoluteDifference.cpp.s
+.PHONY : Leetcode/MinimumAbsoluteDifference.cpp.s
+
 Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.o: Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.o
 
 .PHONY : Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.o
@@ -354,6 +381,9 @@ help:
 	@echo "... Leetcode/IncreasingTripletSubsequence.o"
 	@echo "... Leetcode/IncreasingTripletSubsequence.i"
 	@echo "... Leetcode/IncreasingTripletSubsequence.s"
+	@echo "... Leetcode/MinimumAbsoluteDifference.o"
+	@echo "... Leetcode/MinimumAbsoluteDifference.i"
+	@echo "... Leetcode/MinimumAbsoluteDifference.s"
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.o"
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.i"
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.s"
