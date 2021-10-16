@@ -231,6 +231,33 @@ Leetcode/UniqueNumberOfOccurrences.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/UniqueNumberOfOccurrences.cpp.s
 .PHONY : Leetcode/UniqueNumberOfOccurrences.cpp.s
 
+Leetcode/ValidateBinarySearchTree.o: Leetcode/ValidateBinarySearchTree.cpp.o
+
+.PHONY : Leetcode/ValidateBinarySearchTree.o
+
+# target to build an object file
+Leetcode/ValidateBinarySearchTree.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/ValidateBinarySearchTree.cpp.o
+.PHONY : Leetcode/ValidateBinarySearchTree.cpp.o
+
+Leetcode/ValidateBinarySearchTree.i: Leetcode/ValidateBinarySearchTree.cpp.i
+
+.PHONY : Leetcode/ValidateBinarySearchTree.i
+
+# target to preprocess a source file
+Leetcode/ValidateBinarySearchTree.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/ValidateBinarySearchTree.cpp.i
+.PHONY : Leetcode/ValidateBinarySearchTree.cpp.i
+
+Leetcode/ValidateBinarySearchTree.s: Leetcode/ValidateBinarySearchTree.cpp.s
+
+.PHONY : Leetcode/ValidateBinarySearchTree.s
+
+# target to generate assembly for a file
+Leetcode/ValidateBinarySearchTree.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/ValidateBinarySearchTree.cpp.s
+.PHONY : Leetcode/ValidateBinarySearchTree.cpp.s
+
 Others/GameOfThrones.o: Others/GameOfThrones.cpp.o
 
 .PHONY : Others/GameOfThrones.o
@@ -279,6 +306,9 @@ help:
 	@echo "... Leetcode/UniqueNumberOfOccurrences.o"
 	@echo "... Leetcode/UniqueNumberOfOccurrences.i"
 	@echo "... Leetcode/UniqueNumberOfOccurrences.s"
+	@echo "... Leetcode/ValidateBinarySearchTree.o"
+	@echo "... Leetcode/ValidateBinarySearchTree.i"
+	@echo "... Leetcode/ValidateBinarySearchTree.s"
 	@echo "... Others/GameOfThrones.o"
 	@echo "... Others/GameOfThrones.i"
 	@echo "... Others/GameOfThrones.s"
