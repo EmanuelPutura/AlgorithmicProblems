@@ -123,6 +123,33 @@ Problems/fast:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/build
 .PHONY : Problems/fast
 
+Leetcode/AddTwoNumbers.o: Leetcode/AddTwoNumbers.cpp.o
+
+.PHONY : Leetcode/AddTwoNumbers.o
+
+# target to build an object file
+Leetcode/AddTwoNumbers.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/AddTwoNumbers.cpp.o
+.PHONY : Leetcode/AddTwoNumbers.cpp.o
+
+Leetcode/AddTwoNumbers.i: Leetcode/AddTwoNumbers.cpp.i
+
+.PHONY : Leetcode/AddTwoNumbers.i
+
+# target to preprocess a source file
+Leetcode/AddTwoNumbers.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/AddTwoNumbers.cpp.i
+.PHONY : Leetcode/AddTwoNumbers.cpp.i
+
+Leetcode/AddTwoNumbers.s: Leetcode/AddTwoNumbers.cpp.s
+
+.PHONY : Leetcode/AddTwoNumbers.s
+
+# target to generate assembly for a file
+Leetcode/AddTwoNumbers.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/AddTwoNumbers.cpp.s
+.PHONY : Leetcode/AddTwoNumbers.cpp.s
+
 Leetcode/IncreasingTripletSubsequence.o: Leetcode/IncreasingTripletSubsequence.cpp.o
 
 .PHONY : Leetcode/IncreasingTripletSubsequence.o
@@ -294,6 +321,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Problems"
+	@echo "... Leetcode/AddTwoNumbers.o"
+	@echo "... Leetcode/AddTwoNumbers.i"
+	@echo "... Leetcode/AddTwoNumbers.s"
 	@echo "... Leetcode/IncreasingTripletSubsequence.o"
 	@echo "... Leetcode/IncreasingTripletSubsequence.i"
 	@echo "... Leetcode/IncreasingTripletSubsequence.s"
