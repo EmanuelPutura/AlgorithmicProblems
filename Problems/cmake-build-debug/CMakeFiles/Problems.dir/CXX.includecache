@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Others/GameOfThrones.cpp
-iostream
--
-vector
+/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/InterviewPractice/RotationalCipher.cpp
+bits/stdc++.h
 -
 
