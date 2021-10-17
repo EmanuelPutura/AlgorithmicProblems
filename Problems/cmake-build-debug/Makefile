@@ -177,6 +177,33 @@ InterviewPractice/PairSums.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewPractice/PairSums.cpp.s
 .PHONY : InterviewPractice/PairSums.cpp.s
 
+InterviewPractice/ReverseToMakeEqual.o: InterviewPractice/ReverseToMakeEqual.cpp.o
+
+.PHONY : InterviewPractice/ReverseToMakeEqual.o
+
+# target to build an object file
+InterviewPractice/ReverseToMakeEqual.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewPractice/ReverseToMakeEqual.cpp.o
+.PHONY : InterviewPractice/ReverseToMakeEqual.cpp.o
+
+InterviewPractice/ReverseToMakeEqual.i: InterviewPractice/ReverseToMakeEqual.cpp.i
+
+.PHONY : InterviewPractice/ReverseToMakeEqual.i
+
+# target to preprocess a source file
+InterviewPractice/ReverseToMakeEqual.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewPractice/ReverseToMakeEqual.cpp.i
+.PHONY : InterviewPractice/ReverseToMakeEqual.cpp.i
+
+InterviewPractice/ReverseToMakeEqual.s: InterviewPractice/ReverseToMakeEqual.cpp.s
+
+.PHONY : InterviewPractice/ReverseToMakeEqual.s
+
+# target to generate assembly for a file
+InterviewPractice/ReverseToMakeEqual.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewPractice/ReverseToMakeEqual.cpp.s
+.PHONY : InterviewPractice/ReverseToMakeEqual.cpp.s
+
 InterviewPractice/RotationalCipher.o: InterviewPractice/RotationalCipher.cpp.o
 
 .PHONY : InterviewPractice/RotationalCipher.o
@@ -570,6 +597,9 @@ help:
 	@echo "... InterviewPractice/PairSums.o"
 	@echo "... InterviewPractice/PairSums.i"
 	@echo "... InterviewPractice/PairSums.s"
+	@echo "... InterviewPractice/ReverseToMakeEqual.o"
+	@echo "... InterviewPractice/ReverseToMakeEqual.i"
+	@echo "... InterviewPractice/ReverseToMakeEqual.s"
 	@echo "... InterviewPractice/RotationalCipher.o"
 	@echo "... InterviewPractice/RotationalCipher.i"
 	@echo "... InterviewPractice/RotationalCipher.s"
