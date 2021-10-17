@@ -150,6 +150,33 @@ InterviewPractice/ContiguousSubarrays.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewPractice/ContiguousSubarrays.cpp.s
 .PHONY : InterviewPractice/ContiguousSubarrays.cpp.s
 
+InterviewPractice/PairSums.o: InterviewPractice/PairSums.cpp.o
+
+.PHONY : InterviewPractice/PairSums.o
+
+# target to build an object file
+InterviewPractice/PairSums.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewPractice/PairSums.cpp.o
+.PHONY : InterviewPractice/PairSums.cpp.o
+
+InterviewPractice/PairSums.i: InterviewPractice/PairSums.cpp.i
+
+.PHONY : InterviewPractice/PairSums.i
+
+# target to preprocess a source file
+InterviewPractice/PairSums.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewPractice/PairSums.cpp.i
+.PHONY : InterviewPractice/PairSums.cpp.i
+
+InterviewPractice/PairSums.s: InterviewPractice/PairSums.cpp.s
+
+.PHONY : InterviewPractice/PairSums.s
+
+# target to generate assembly for a file
+InterviewPractice/PairSums.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewPractice/PairSums.cpp.s
+.PHONY : InterviewPractice/PairSums.cpp.s
+
 InterviewPractice/RotationalCipher.o: InterviewPractice/RotationalCipher.cpp.o
 
 .PHONY : InterviewPractice/RotationalCipher.o
@@ -540,6 +567,9 @@ help:
 	@echo "... InterviewPractice/ContiguousSubarrays.o"
 	@echo "... InterviewPractice/ContiguousSubarrays.i"
 	@echo "... InterviewPractice/ContiguousSubarrays.s"
+	@echo "... InterviewPractice/PairSums.o"
+	@echo "... InterviewPractice/PairSums.i"
+	@echo "... InterviewPractice/PairSums.s"
 	@echo "... InterviewPractice/RotationalCipher.o"
 	@echo "... InterviewPractice/RotationalCipher.i"
 	@echo "... InterviewPractice/RotationalCipher.s"
