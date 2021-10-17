@@ -285,6 +285,33 @@ Leetcode/DesignUndergroundSystem.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/DesignUndergroundSystem.cpp.s
 .PHONY : Leetcode/DesignUndergroundSystem.cpp.s
 
+Leetcode/FirstMissingPositive.o: Leetcode/FirstMissingPositive.cpp.o
+
+.PHONY : Leetcode/FirstMissingPositive.o
+
+# target to build an object file
+Leetcode/FirstMissingPositive.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FirstMissingPositive.cpp.o
+.PHONY : Leetcode/FirstMissingPositive.cpp.o
+
+Leetcode/FirstMissingPositive.i: Leetcode/FirstMissingPositive.cpp.i
+
+.PHONY : Leetcode/FirstMissingPositive.i
+
+# target to preprocess a source file
+Leetcode/FirstMissingPositive.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FirstMissingPositive.cpp.i
+.PHONY : Leetcode/FirstMissingPositive.cpp.i
+
+Leetcode/FirstMissingPositive.s: Leetcode/FirstMissingPositive.cpp.s
+
+.PHONY : Leetcode/FirstMissingPositive.s
+
+# target to generate assembly for a file
+Leetcode/FirstMissingPositive.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FirstMissingPositive.cpp.s
+.PHONY : Leetcode/FirstMissingPositive.cpp.s
+
 Leetcode/IncreasingTripletSubsequence.o: Leetcode/IncreasingTripletSubsequence.cpp.o
 
 .PHONY : Leetcode/IncreasingTripletSubsequence.o
@@ -609,6 +636,9 @@ help:
 	@echo "... Leetcode/DesignUndergroundSystem.o"
 	@echo "... Leetcode/DesignUndergroundSystem.i"
 	@echo "... Leetcode/DesignUndergroundSystem.s"
+	@echo "... Leetcode/FirstMissingPositive.o"
+	@echo "... Leetcode/FirstMissingPositive.i"
+	@echo "... Leetcode/FirstMissingPositive.s"
 	@echo "... Leetcode/IncreasingTripletSubsequence.o"
 	@echo "... Leetcode/IncreasingTripletSubsequence.i"
 	@echo "... Leetcode/IncreasingTripletSubsequence.s"

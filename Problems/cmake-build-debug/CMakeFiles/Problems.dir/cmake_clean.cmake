@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Problems.dir/InterviewPractice/RotationalCipher.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/AddTwoNumbers.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/DesignUndergroundSystem.cpp.o"
+  "CMakeFiles/Problems.dir/Leetcode/FirstMissingPositive.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/MinimumAbsoluteDifference.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.o"
