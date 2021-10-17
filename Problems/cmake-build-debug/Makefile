@@ -123,6 +123,33 @@ Problems/fast:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/build
 .PHONY : Problems/fast
 
+InterviewPractice/ContiguousSubarrays.o: InterviewPractice/ContiguousSubarrays.cpp.o
+
+.PHONY : InterviewPractice/ContiguousSubarrays.o
+
+# target to build an object file
+InterviewPractice/ContiguousSubarrays.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewPractice/ContiguousSubarrays.cpp.o
+.PHONY : InterviewPractice/ContiguousSubarrays.cpp.o
+
+InterviewPractice/ContiguousSubarrays.i: InterviewPractice/ContiguousSubarrays.cpp.i
+
+.PHONY : InterviewPractice/ContiguousSubarrays.i
+
+# target to preprocess a source file
+InterviewPractice/ContiguousSubarrays.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewPractice/ContiguousSubarrays.cpp.i
+.PHONY : InterviewPractice/ContiguousSubarrays.cpp.i
+
+InterviewPractice/ContiguousSubarrays.s: InterviewPractice/ContiguousSubarrays.cpp.s
+
+.PHONY : InterviewPractice/ContiguousSubarrays.s
+
+# target to generate assembly for a file
+InterviewPractice/ContiguousSubarrays.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/InterviewPractice/ContiguousSubarrays.cpp.s
+.PHONY : InterviewPractice/ContiguousSubarrays.cpp.s
+
 InterviewPractice/RotationalCipher.o: InterviewPractice/RotationalCipher.cpp.o
 
 .PHONY : InterviewPractice/RotationalCipher.o
@@ -510,6 +537,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Problems"
+	@echo "... InterviewPractice/ContiguousSubarrays.o"
+	@echo "... InterviewPractice/ContiguousSubarrays.i"
+	@echo "... InterviewPractice/ContiguousSubarrays.s"
 	@echo "... InterviewPractice/RotationalCipher.o"
 	@echo "... InterviewPractice/RotationalCipher.i"
 	@echo "... InterviewPractice/RotationalCipher.s"
