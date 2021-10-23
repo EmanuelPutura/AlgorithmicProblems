@@ -366,6 +366,33 @@ Leetcode/IncreasingTripletSubsequence.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.s
 .PHONY : Leetcode/IncreasingTripletSubsequence.cpp.s
 
+Leetcode/MaximumProductSubarray.o: Leetcode/MaximumProductSubarray.cpp.o
+
+.PHONY : Leetcode/MaximumProductSubarray.o
+
+# target to build an object file
+Leetcode/MaximumProductSubarray.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MaximumProductSubarray.cpp.o
+.PHONY : Leetcode/MaximumProductSubarray.cpp.o
+
+Leetcode/MaximumProductSubarray.i: Leetcode/MaximumProductSubarray.cpp.i
+
+.PHONY : Leetcode/MaximumProductSubarray.i
+
+# target to preprocess a source file
+Leetcode/MaximumProductSubarray.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MaximumProductSubarray.cpp.i
+.PHONY : Leetcode/MaximumProductSubarray.cpp.i
+
+Leetcode/MaximumProductSubarray.s: Leetcode/MaximumProductSubarray.cpp.s
+
+.PHONY : Leetcode/MaximumProductSubarray.s
+
+# target to generate assembly for a file
+Leetcode/MaximumProductSubarray.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MaximumProductSubarray.cpp.s
+.PHONY : Leetcode/MaximumProductSubarray.cpp.s
+
 Leetcode/MinimumAbsoluteDifference.o: Leetcode/MinimumAbsoluteDifference.cpp.o
 
 .PHONY : Leetcode/MinimumAbsoluteDifference.o
@@ -672,6 +699,9 @@ help:
 	@echo "... Leetcode/IncreasingTripletSubsequence.o"
 	@echo "... Leetcode/IncreasingTripletSubsequence.i"
 	@echo "... Leetcode/IncreasingTripletSubsequence.s"
+	@echo "... Leetcode/MaximumProductSubarray.o"
+	@echo "... Leetcode/MaximumProductSubarray.i"
+	@echo "... Leetcode/MaximumProductSubarray.s"
 	@echo "... Leetcode/MinimumAbsoluteDifference.o"
 	@echo "... Leetcode/MinimumAbsoluteDifference.i"
 	@echo "... Leetcode/MinimumAbsoluteDifference.s"
