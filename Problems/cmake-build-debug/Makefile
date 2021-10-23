@@ -474,6 +474,33 @@ Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s
 .PHONY : Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s
 
+Leetcode/NumberOfStudentsUnableToEatLunch.o: Leetcode/NumberOfStudentsUnableToEatLunch.cpp.o
+
+.PHONY : Leetcode/NumberOfStudentsUnableToEatLunch.o
+
+# target to build an object file
+Leetcode/NumberOfStudentsUnableToEatLunch.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/NumberOfStudentsUnableToEatLunch.cpp.o
+.PHONY : Leetcode/NumberOfStudentsUnableToEatLunch.cpp.o
+
+Leetcode/NumberOfStudentsUnableToEatLunch.i: Leetcode/NumberOfStudentsUnableToEatLunch.cpp.i
+
+.PHONY : Leetcode/NumberOfStudentsUnableToEatLunch.i
+
+# target to preprocess a source file
+Leetcode/NumberOfStudentsUnableToEatLunch.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/NumberOfStudentsUnableToEatLunch.cpp.i
+.PHONY : Leetcode/NumberOfStudentsUnableToEatLunch.cpp.i
+
+Leetcode/NumberOfStudentsUnableToEatLunch.s: Leetcode/NumberOfStudentsUnableToEatLunch.cpp.s
+
+.PHONY : Leetcode/NumberOfStudentsUnableToEatLunch.s
+
+# target to generate assembly for a file
+Leetcode/NumberOfStudentsUnableToEatLunch.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/NumberOfStudentsUnableToEatLunch.cpp.s
+.PHONY : Leetcode/NumberOfStudentsUnableToEatLunch.cpp.s
+
 Leetcode/PathWithMaximumGold.o: Leetcode/PathWithMaximumGold.cpp.o
 
 .PHONY : Leetcode/PathWithMaximumGold.o
@@ -765,6 +792,9 @@ help:
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.o"
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.i"
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.s"
+	@echo "... Leetcode/NumberOfStudentsUnableToEatLunch.o"
+	@echo "... Leetcode/NumberOfStudentsUnableToEatLunch.i"
+	@echo "... Leetcode/NumberOfStudentsUnableToEatLunch.s"
 	@echo "... Leetcode/PathWithMaximumGold.o"
 	@echo "... Leetcode/PathWithMaximumGold.i"
 	@echo "... Leetcode/PathWithMaximumGold.s"
