@@ -474,6 +474,33 @@ Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s
 .PHONY : Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s
 
+Leetcode/PathWithMaximumGold.o: Leetcode/PathWithMaximumGold.cpp.o
+
+.PHONY : Leetcode/PathWithMaximumGold.o
+
+# target to build an object file
+Leetcode/PathWithMaximumGold.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/PathWithMaximumGold.cpp.o
+.PHONY : Leetcode/PathWithMaximumGold.cpp.o
+
+Leetcode/PathWithMaximumGold.i: Leetcode/PathWithMaximumGold.cpp.i
+
+.PHONY : Leetcode/PathWithMaximumGold.i
+
+# target to preprocess a source file
+Leetcode/PathWithMaximumGold.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/PathWithMaximumGold.cpp.i
+.PHONY : Leetcode/PathWithMaximumGold.cpp.i
+
+Leetcode/PathWithMaximumGold.s: Leetcode/PathWithMaximumGold.cpp.s
+
+.PHONY : Leetcode/PathWithMaximumGold.s
+
+# target to generate assembly for a file
+Leetcode/PathWithMaximumGold.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/PathWithMaximumGold.cpp.s
+.PHONY : Leetcode/PathWithMaximumGold.cpp.s
+
 Leetcode/PopulatingNextRightPointersInEachNodeII.o: Leetcode/PopulatingNextRightPointersInEachNodeII.cpp.o
 
 .PHONY : Leetcode/PopulatingNextRightPointersInEachNodeII.o
@@ -738,6 +765,9 @@ help:
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.o"
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.i"
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.s"
+	@echo "... Leetcode/PathWithMaximumGold.o"
+	@echo "... Leetcode/PathWithMaximumGold.i"
+	@echo "... Leetcode/PathWithMaximumGold.s"
 	@echo "... Leetcode/PopulatingNextRightPointersInEachNodeII.o"
 	@echo "... Leetcode/PopulatingNextRightPointersInEachNodeII.i"
 	@echo "... Leetcode/PopulatingNextRightPointersInEachNodeII.s"
