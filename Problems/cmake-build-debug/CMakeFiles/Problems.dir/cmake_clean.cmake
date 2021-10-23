@@ -8,6 +8,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Problems.dir/Leetcode/DesignUndergroundSystem.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/FirstMissingPositive.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.o"
+  "CMakeFiles/Problems.dir/Leetcode/InsertIntoABinarySearchTree.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/LongestContinuousIncreasingSubsequence.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/MaximumProductSubarray.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/MinimumAbsoluteDifference.cpp.o"

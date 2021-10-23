@@ -366,6 +366,33 @@ Leetcode/IncreasingTripletSubsequence.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.s
 .PHONY : Leetcode/IncreasingTripletSubsequence.cpp.s
 
+Leetcode/InsertIntoABinarySearchTree.o: Leetcode/InsertIntoABinarySearchTree.cpp.o
+
+.PHONY : Leetcode/InsertIntoABinarySearchTree.o
+
+# target to build an object file
+Leetcode/InsertIntoABinarySearchTree.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/InsertIntoABinarySearchTree.cpp.o
+.PHONY : Leetcode/InsertIntoABinarySearchTree.cpp.o
+
+Leetcode/InsertIntoABinarySearchTree.i: Leetcode/InsertIntoABinarySearchTree.cpp.i
+
+.PHONY : Leetcode/InsertIntoABinarySearchTree.i
+
+# target to preprocess a source file
+Leetcode/InsertIntoABinarySearchTree.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/InsertIntoABinarySearchTree.cpp.i
+.PHONY : Leetcode/InsertIntoABinarySearchTree.cpp.i
+
+Leetcode/InsertIntoABinarySearchTree.s: Leetcode/InsertIntoABinarySearchTree.cpp.s
+
+.PHONY : Leetcode/InsertIntoABinarySearchTree.s
+
+# target to generate assembly for a file
+Leetcode/InsertIntoABinarySearchTree.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/InsertIntoABinarySearchTree.cpp.s
+.PHONY : Leetcode/InsertIntoABinarySearchTree.cpp.s
+
 Leetcode/LongestContinuousIncreasingSubsequence.o: Leetcode/LongestContinuousIncreasingSubsequence.cpp.o
 
 .PHONY : Leetcode/LongestContinuousIncreasingSubsequence.o
@@ -780,6 +807,9 @@ help:
 	@echo "... Leetcode/IncreasingTripletSubsequence.o"
 	@echo "... Leetcode/IncreasingTripletSubsequence.i"
 	@echo "... Leetcode/IncreasingTripletSubsequence.s"
+	@echo "... Leetcode/InsertIntoABinarySearchTree.o"
+	@echo "... Leetcode/InsertIntoABinarySearchTree.i"
+	@echo "... Leetcode/InsertIntoABinarySearchTree.s"
 	@echo "... Leetcode/LongestContinuousIncreasingSubsequence.o"
 	@echo "... Leetcode/LongestContinuousIncreasingSubsequence.i"
 	@echo "... Leetcode/LongestContinuousIncreasingSubsequence.s"
