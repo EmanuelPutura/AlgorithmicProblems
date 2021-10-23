@@ -366,6 +366,33 @@ Leetcode/IncreasingTripletSubsequence.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/IncreasingTripletSubsequence.cpp.s
 .PHONY : Leetcode/IncreasingTripletSubsequence.cpp.s
 
+Leetcode/LongestContinuousIncreasingSubsequence.o: Leetcode/LongestContinuousIncreasingSubsequence.cpp.o
+
+.PHONY : Leetcode/LongestContinuousIncreasingSubsequence.o
+
+# target to build an object file
+Leetcode/LongestContinuousIncreasingSubsequence.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestContinuousIncreasingSubsequence.cpp.o
+.PHONY : Leetcode/LongestContinuousIncreasingSubsequence.cpp.o
+
+Leetcode/LongestContinuousIncreasingSubsequence.i: Leetcode/LongestContinuousIncreasingSubsequence.cpp.i
+
+.PHONY : Leetcode/LongestContinuousIncreasingSubsequence.i
+
+# target to preprocess a source file
+Leetcode/LongestContinuousIncreasingSubsequence.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestContinuousIncreasingSubsequence.cpp.i
+.PHONY : Leetcode/LongestContinuousIncreasingSubsequence.cpp.i
+
+Leetcode/LongestContinuousIncreasingSubsequence.s: Leetcode/LongestContinuousIncreasingSubsequence.cpp.s
+
+.PHONY : Leetcode/LongestContinuousIncreasingSubsequence.s
+
+# target to generate assembly for a file
+Leetcode/LongestContinuousIncreasingSubsequence.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/LongestContinuousIncreasingSubsequence.cpp.s
+.PHONY : Leetcode/LongestContinuousIncreasingSubsequence.cpp.s
+
 Leetcode/MaximumProductSubarray.o: Leetcode/MaximumProductSubarray.cpp.o
 
 .PHONY : Leetcode/MaximumProductSubarray.o
@@ -699,6 +726,9 @@ help:
 	@echo "... Leetcode/IncreasingTripletSubsequence.o"
 	@echo "... Leetcode/IncreasingTripletSubsequence.i"
 	@echo "... Leetcode/IncreasingTripletSubsequence.s"
+	@echo "... Leetcode/LongestContinuousIncreasingSubsequence.o"
+	@echo "... Leetcode/LongestContinuousIncreasingSubsequence.i"
+	@echo "... Leetcode/LongestContinuousIncreasingSubsequence.s"
 	@echo "... Leetcode/MaximumProductSubarray.o"
 	@echo "... Leetcode/MaximumProductSubarray.i"
 	@echo "... Leetcode/MaximumProductSubarray.s"
