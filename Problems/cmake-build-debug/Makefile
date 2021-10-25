@@ -501,6 +501,33 @@ Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s
 .PHONY : Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.cpp.s
 
+Leetcode/MonotonicArray.o: Leetcode/MonotonicArray.cpp.o
+
+.PHONY : Leetcode/MonotonicArray.o
+
+# target to build an object file
+Leetcode/MonotonicArray.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MonotonicArray.cpp.o
+.PHONY : Leetcode/MonotonicArray.cpp.o
+
+Leetcode/MonotonicArray.i: Leetcode/MonotonicArray.cpp.i
+
+.PHONY : Leetcode/MonotonicArray.i
+
+# target to preprocess a source file
+Leetcode/MonotonicArray.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MonotonicArray.cpp.i
+.PHONY : Leetcode/MonotonicArray.cpp.i
+
+Leetcode/MonotonicArray.s: Leetcode/MonotonicArray.cpp.s
+
+.PHONY : Leetcode/MonotonicArray.s
+
+# target to generate assembly for a file
+Leetcode/MonotonicArray.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MonotonicArray.cpp.s
+.PHONY : Leetcode/MonotonicArray.cpp.s
+
 Leetcode/NumberOfStudentsUnableToEatLunch.o: Leetcode/NumberOfStudentsUnableToEatLunch.cpp.o
 
 .PHONY : Leetcode/NumberOfStudentsUnableToEatLunch.o
@@ -822,6 +849,9 @@ help:
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.o"
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.i"
 	@echo "... Leetcode/MinimumNumberOfOperationsToMoveAllBallsToEachBox.s"
+	@echo "... Leetcode/MonotonicArray.o"
+	@echo "... Leetcode/MonotonicArray.i"
+	@echo "... Leetcode/MonotonicArray.s"
 	@echo "... Leetcode/NumberOfStudentsUnableToEatLunch.o"
 	@echo "... Leetcode/NumberOfStudentsUnableToEatLunch.i"
 	@echo "... Leetcode/NumberOfStudentsUnableToEatLunch.s"
