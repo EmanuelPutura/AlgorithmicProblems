@@ -285,6 +285,33 @@ Leetcode/CouplesHoldingHands.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/CouplesHoldingHands.cpp.s
 .PHONY : Leetcode/CouplesHoldingHands.cpp.s
 
+Leetcode/DecodeWays.o: Leetcode/DecodeWays.cpp.o
+
+.PHONY : Leetcode/DecodeWays.o
+
+# target to build an object file
+Leetcode/DecodeWays.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/DecodeWays.cpp.o
+.PHONY : Leetcode/DecodeWays.cpp.o
+
+Leetcode/DecodeWays.i: Leetcode/DecodeWays.cpp.i
+
+.PHONY : Leetcode/DecodeWays.i
+
+# target to preprocess a source file
+Leetcode/DecodeWays.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/DecodeWays.cpp.i
+.PHONY : Leetcode/DecodeWays.cpp.i
+
+Leetcode/DecodeWays.s: Leetcode/DecodeWays.cpp.s
+
+.PHONY : Leetcode/DecodeWays.s
+
+# target to generate assembly for a file
+Leetcode/DecodeWays.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/DecodeWays.cpp.s
+.PHONY : Leetcode/DecodeWays.cpp.s
+
 Leetcode/DesignUndergroundSystem.o: Leetcode/DesignUndergroundSystem.cpp.o
 
 .PHONY : Leetcode/DesignUndergroundSystem.o
@@ -852,6 +879,9 @@ help:
 	@echo "... Leetcode/CouplesHoldingHands.o"
 	@echo "... Leetcode/CouplesHoldingHands.i"
 	@echo "... Leetcode/CouplesHoldingHands.s"
+	@echo "... Leetcode/DecodeWays.o"
+	@echo "... Leetcode/DecodeWays.i"
+	@echo "... Leetcode/DecodeWays.s"
 	@echo "... Leetcode/DesignUndergroundSystem.o"
 	@echo "... Leetcode/DesignUndergroundSystem.i"
 	@echo "... Leetcode/DesignUndergroundSystem.s"
