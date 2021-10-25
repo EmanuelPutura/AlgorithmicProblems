@@ -382,18 +382,18 @@ CMakeFiles/Problems.dir/Leetcode/MonotonicArray.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/MonotonicArray.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/MonotonicArray.cpp -o CMakeFiles/Problems.dir/Leetcode/MonotonicArray.cpp.s
 
-CMakeFiles/Problems.dir/Leetcode/Interval_List_Intersections.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/Leetcode/Interval_List_Intersections.cpp.o: ../Leetcode/Interval\ List\ Intersections.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/Problems.dir/Leetcode/Interval_List_Intersections.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Leetcode/Interval_List_Intersections.cpp.o -c "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/Interval List Intersections.cpp"
+CMakeFiles/Problems.dir/Leetcode/IntervalListIntersections.cpp.o: CMakeFiles/Problems.dir/flags.make
+CMakeFiles/Problems.dir/Leetcode/IntervalListIntersections.cpp.o: ../Leetcode/IntervalListIntersections.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/Problems.dir/Leetcode/IntervalListIntersections.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Leetcode/IntervalListIntersections.cpp.o -c /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/IntervalListIntersections.cpp
 
-CMakeFiles/Problems.dir/Leetcode/Interval_List_Intersections.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Leetcode/Interval_List_Intersections.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/Interval List Intersections.cpp" > CMakeFiles/Problems.dir/Leetcode/Interval_List_Intersections.cpp.i
+CMakeFiles/Problems.dir/Leetcode/IntervalListIntersections.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Leetcode/IntervalListIntersections.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/IntervalListIntersections.cpp > CMakeFiles/Problems.dir/Leetcode/IntervalListIntersections.cpp.i
 
-CMakeFiles/Problems.dir/Leetcode/Interval_List_Intersections.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/Interval_List_Intersections.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/Interval List Intersections.cpp" -o CMakeFiles/Problems.dir/Leetcode/Interval_List_Intersections.cpp.s
+CMakeFiles/Problems.dir/Leetcode/IntervalListIntersections.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/IntervalListIntersections.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/IntervalListIntersections.cpp -o CMakeFiles/Problems.dir/Leetcode/IntervalListIntersections.cpp.s
 
 CMakeFiles/Problems.dir/Leetcode/DecodeWays.cpp.o: CMakeFiles/Problems.dir/flags.make
 CMakeFiles/Problems.dir/Leetcode/DecodeWays.cpp.o: ../Leetcode/DecodeWays.cpp
@@ -435,7 +435,7 @@ Problems_OBJECTS = \
 "CMakeFiles/Problems.dir/Leetcode/NumberOfStudentsUnableToEatLunch.cpp.o" \
 "CMakeFiles/Problems.dir/Leetcode/InsertIntoABinarySearchTree.cpp.o" \
 "CMakeFiles/Problems.dir/Leetcode/MonotonicArray.cpp.o" \
-"CMakeFiles/Problems.dir/Leetcode/Interval_List_Intersections.cpp.o" \
+"CMakeFiles/Problems.dir/Leetcode/IntervalListIntersections.cpp.o" \
 "CMakeFiles/Problems.dir/Leetcode/DecodeWays.cpp.o"
 
 # External object files for target Problems
@@ -466,7 +466,7 @@ Problems: CMakeFiles/Problems.dir/Leetcode/PathWithMaximumGold.cpp.o
 Problems: CMakeFiles/Problems.dir/Leetcode/NumberOfStudentsUnableToEatLunch.cpp.o
 Problems: CMakeFiles/Problems.dir/Leetcode/InsertIntoABinarySearchTree.cpp.o
 Problems: CMakeFiles/Problems.dir/Leetcode/MonotonicArray.cpp.o
-Problems: CMakeFiles/Problems.dir/Leetcode/Interval_List_Intersections.cpp.o
+Problems: CMakeFiles/Problems.dir/Leetcode/IntervalListIntersections.cpp.o
 Problems: CMakeFiles/Problems.dir/Leetcode/DecodeWays.cpp.o
 Problems: CMakeFiles/Problems.dir/build.make
 Problems: CMakeFiles/Problems.dir/link.txt

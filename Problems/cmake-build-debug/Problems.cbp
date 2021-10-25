@@ -115,7 +115,7 @@
 		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/InsertIntoABinarySearchTree.cpp">
 			<Option target="Problems"/>
 		</Unit>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/Interval List Intersections.cpp">
+		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/IntervalListIntersections.cpp">
 			<Option target="Problems"/>
 		</Unit>
 		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/LongestContinuousIncreasingSubsequence.cpp">
