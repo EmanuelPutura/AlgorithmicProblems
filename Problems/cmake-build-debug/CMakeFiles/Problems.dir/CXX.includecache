@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/FirstMissingPositive.cpp
+/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Others/MoonsAndUmbrellas.cpp
+iostream
+-
 vector
+-
+string
 -
 
