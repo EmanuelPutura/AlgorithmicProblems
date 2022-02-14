@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/main.cpp
-iostream
+/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/RemoveDuplicatesFromSortedArray.cpp
+vector
 -
 
