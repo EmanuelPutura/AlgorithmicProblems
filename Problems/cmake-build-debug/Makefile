@@ -123,32 +123,59 @@ Problems/fast:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/build
 .PHONY : Problems/fast
 
-Others/ReversortEngineering.o: Others/ReversortEngineering.cpp.o
+Leetcode/TwoSum.o: Leetcode/TwoSum.cpp.o
 
-.PHONY : Others/ReversortEngineering.o
+.PHONY : Leetcode/TwoSum.o
 
 # target to build an object file
-Others/ReversortEngineering.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Others/ReversortEngineering.cpp.o
-.PHONY : Others/ReversortEngineering.cpp.o
+Leetcode/TwoSum.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/TwoSum.cpp.o
+.PHONY : Leetcode/TwoSum.cpp.o
 
-Others/ReversortEngineering.i: Others/ReversortEngineering.cpp.i
+Leetcode/TwoSum.i: Leetcode/TwoSum.cpp.i
 
-.PHONY : Others/ReversortEngineering.i
+.PHONY : Leetcode/TwoSum.i
 
 # target to preprocess a source file
-Others/ReversortEngineering.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Others/ReversortEngineering.cpp.i
-.PHONY : Others/ReversortEngineering.cpp.i
+Leetcode/TwoSum.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/TwoSum.cpp.i
+.PHONY : Leetcode/TwoSum.cpp.i
 
-Others/ReversortEngineering.s: Others/ReversortEngineering.cpp.s
+Leetcode/TwoSum.s: Leetcode/TwoSum.cpp.s
 
-.PHONY : Others/ReversortEngineering.s
+.PHONY : Leetcode/TwoSum.s
 
 # target to generate assembly for a file
-Others/ReversortEngineering.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Others/ReversortEngineering.cpp.s
-.PHONY : Others/ReversortEngineering.cpp.s
+Leetcode/TwoSum.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/TwoSum.cpp.s
+.PHONY : Leetcode/TwoSum.cpp.s
+
+main.o: main.cpp.o
+
+.PHONY : main.o
+
+# target to build an object file
+main.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/main.cpp.o
+.PHONY : main.cpp.o
+
+main.i: main.cpp.i
+
+.PHONY : main.i
+
+# target to preprocess a source file
+main.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/main.cpp.i
+.PHONY : main.cpp.i
+
+main.s: main.cpp.s
+
+.PHONY : main.s
+
+# target to generate assembly for a file
+main.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -159,9 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Problems"
-	@echo "... Others/ReversortEngineering.o"
-	@echo "... Others/ReversortEngineering.i"
-	@echo "... Others/ReversortEngineering.s"
+	@echo "... Leetcode/TwoSum.o"
+	@echo "... Leetcode/TwoSum.i"
+	@echo "... Leetcode/TwoSum.s"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
 .PHONY : help
 
 

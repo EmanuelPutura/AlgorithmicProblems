@@ -82,7 +82,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Others/ReversortEngineering.cpp">
+		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/TwoSum.cpp">
+			<Option target="Problems"/>
+		</Unit>
+		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/main.cpp">
 			<Option target="Problems"/>
 		</Unit>
 		<Unit filename="/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/CMakeLists.txt">
