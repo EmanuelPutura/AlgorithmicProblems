@@ -177,6 +177,33 @@ Leetcode/ReverseInteger.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/ReverseInteger.cpp.s
 .PHONY : Leetcode/ReverseInteger.cpp.s
 
+Leetcode/RotateList.o: Leetcode/RotateList.cpp.o
+
+.PHONY : Leetcode/RotateList.o
+
+# target to build an object file
+Leetcode/RotateList.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/RotateList.cpp.o
+.PHONY : Leetcode/RotateList.cpp.o
+
+Leetcode/RotateList.i: Leetcode/RotateList.cpp.i
+
+.PHONY : Leetcode/RotateList.i
+
+# target to preprocess a source file
+Leetcode/RotateList.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/RotateList.cpp.i
+.PHONY : Leetcode/RotateList.cpp.i
+
+Leetcode/RotateList.s: Leetcode/RotateList.cpp.s
+
+.PHONY : Leetcode/RotateList.s
+
+# target to generate assembly for a file
+Leetcode/RotateList.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/RotateList.cpp.s
+.PHONY : Leetcode/RotateList.cpp.s
+
 Leetcode/TwoSum.o: Leetcode/TwoSum.cpp.o
 
 .PHONY : Leetcode/TwoSum.o
@@ -246,6 +273,9 @@ help:
 	@echo "... Leetcode/ReverseInteger.o"
 	@echo "... Leetcode/ReverseInteger.i"
 	@echo "... Leetcode/ReverseInteger.s"
+	@echo "... Leetcode/RotateList.o"
+	@echo "... Leetcode/RotateList.i"
+	@echo "... Leetcode/RotateList.s"
 	@echo "... Leetcode/TwoSum.o"
 	@echo "... Leetcode/TwoSum.i"
 	@echo "... Leetcode/TwoSum.s"

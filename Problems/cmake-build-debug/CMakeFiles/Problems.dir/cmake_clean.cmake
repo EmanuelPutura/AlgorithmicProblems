@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Problems.dir/Leetcode/RemoveDuplicatesFromSortedArray.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/ReverseInteger.cpp.o"
+  "CMakeFiles/Problems.dir/Leetcode/RotateList.cpp.o"
   "CMakeFiles/Problems.dir/Leetcode/TwoSum.cpp.o"
   "CMakeFiles/Problems.dir/main.cpp.o"
   "Problems"
