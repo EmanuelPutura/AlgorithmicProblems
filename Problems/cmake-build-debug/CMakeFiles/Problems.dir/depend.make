@@ -3,6 +3,8 @@
 
 CMakeFiles/Problems.dir/Leetcode/RemoveDuplicatesFromSortedArray.cpp.o: ../Leetcode/RemoveDuplicatesFromSortedArray.cpp
 
+CMakeFiles/Problems.dir/Leetcode/ReverseInteger.cpp.o: ../Leetcode/ReverseInteger.cpp
+
 CMakeFiles/Problems.dir/Leetcode/TwoSum.cpp.o: ../Leetcode/TwoSum.cpp
 
 CMakeFiles/Problems.dir/main.cpp.o: ../main.cpp

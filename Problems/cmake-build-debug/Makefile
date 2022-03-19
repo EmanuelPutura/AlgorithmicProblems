@@ -150,6 +150,33 @@ Leetcode/RemoveDuplicatesFromSortedArray.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/RemoveDuplicatesFromSortedArray.cpp.s
 .PHONY : Leetcode/RemoveDuplicatesFromSortedArray.cpp.s
 
+Leetcode/ReverseInteger.o: Leetcode/ReverseInteger.cpp.o
+
+.PHONY : Leetcode/ReverseInteger.o
+
+# target to build an object file
+Leetcode/ReverseInteger.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/ReverseInteger.cpp.o
+.PHONY : Leetcode/ReverseInteger.cpp.o
+
+Leetcode/ReverseInteger.i: Leetcode/ReverseInteger.cpp.i
+
+.PHONY : Leetcode/ReverseInteger.i
+
+# target to preprocess a source file
+Leetcode/ReverseInteger.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/ReverseInteger.cpp.i
+.PHONY : Leetcode/ReverseInteger.cpp.i
+
+Leetcode/ReverseInteger.s: Leetcode/ReverseInteger.cpp.s
+
+.PHONY : Leetcode/ReverseInteger.s
+
+# target to generate assembly for a file
+Leetcode/ReverseInteger.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/ReverseInteger.cpp.s
+.PHONY : Leetcode/ReverseInteger.cpp.s
+
 Leetcode/TwoSum.o: Leetcode/TwoSum.cpp.o
 
 .PHONY : Leetcode/TwoSum.o
@@ -216,6 +243,9 @@ help:
 	@echo "... Leetcode/RemoveDuplicatesFromSortedArray.o"
 	@echo "... Leetcode/RemoveDuplicatesFromSortedArray.i"
 	@echo "... Leetcode/RemoveDuplicatesFromSortedArray.s"
+	@echo "... Leetcode/ReverseInteger.o"
+	@echo "... Leetcode/ReverseInteger.i"
+	@echo "... Leetcode/ReverseInteger.s"
 	@echo "... Leetcode/TwoSum.o"
 	@echo "... Leetcode/TwoSum.i"
 	@echo "... Leetcode/TwoSum.s"
