@@ -123,6 +123,33 @@ Problems/fast:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/build
 .PHONY : Problems/fast
 
+Leetcode/IntegerBreak.o: Leetcode/IntegerBreak.cpp.o
+
+.PHONY : Leetcode/IntegerBreak.o
+
+# target to build an object file
+Leetcode/IntegerBreak.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/IntegerBreak.cpp.o
+.PHONY : Leetcode/IntegerBreak.cpp.o
+
+Leetcode/IntegerBreak.i: Leetcode/IntegerBreak.cpp.i
+
+.PHONY : Leetcode/IntegerBreak.i
+
+# target to preprocess a source file
+Leetcode/IntegerBreak.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/IntegerBreak.cpp.i
+.PHONY : Leetcode/IntegerBreak.cpp.i
+
+Leetcode/IntegerBreak.s: Leetcode/IntegerBreak.cpp.s
+
+.PHONY : Leetcode/IntegerBreak.s
+
+# target to generate assembly for a file
+Leetcode/IntegerBreak.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/IntegerBreak.cpp.s
+.PHONY : Leetcode/IntegerBreak.cpp.s
+
 Leetcode/RemoveDuplicatesFromSortedArray.o: Leetcode/RemoveDuplicatesFromSortedArray.cpp.o
 
 .PHONY : Leetcode/RemoveDuplicatesFromSortedArray.o
@@ -267,6 +294,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Problems"
+	@echo "... Leetcode/IntegerBreak.o"
+	@echo "... Leetcode/IntegerBreak.i"
+	@echo "... Leetcode/IntegerBreak.s"
 	@echo "... Leetcode/RemoveDuplicatesFromSortedArray.o"
 	@echo "... Leetcode/RemoveDuplicatesFromSortedArray.i"
 	@echo "... Leetcode/RemoveDuplicatesFromSortedArray.s"
