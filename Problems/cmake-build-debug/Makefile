@@ -123,32 +123,59 @@ Problems/fast:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/build
 .PHONY : Problems/fast
 
-Leetcode/FindTheDuplicateNumber.o: Leetcode/FindTheDuplicateNumber.cpp.o
+Leetcode/FindTheDuplicateNumber-Solution1.o: Leetcode/FindTheDuplicateNumber-Solution1.cpp.o
 
-.PHONY : Leetcode/FindTheDuplicateNumber.o
+.PHONY : Leetcode/FindTheDuplicateNumber-Solution1.o
 
 # target to build an object file
-Leetcode/FindTheDuplicateNumber.cpp.o:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.o
-.PHONY : Leetcode/FindTheDuplicateNumber.cpp.o
+Leetcode/FindTheDuplicateNumber-Solution1.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.o
+.PHONY : Leetcode/FindTheDuplicateNumber-Solution1.cpp.o
 
-Leetcode/FindTheDuplicateNumber.i: Leetcode/FindTheDuplicateNumber.cpp.i
+Leetcode/FindTheDuplicateNumber-Solution1.i: Leetcode/FindTheDuplicateNumber-Solution1.cpp.i
 
-.PHONY : Leetcode/FindTheDuplicateNumber.i
+.PHONY : Leetcode/FindTheDuplicateNumber-Solution1.i
 
 # target to preprocess a source file
-Leetcode/FindTheDuplicateNumber.cpp.i:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.i
-.PHONY : Leetcode/FindTheDuplicateNumber.cpp.i
+Leetcode/FindTheDuplicateNumber-Solution1.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.i
+.PHONY : Leetcode/FindTheDuplicateNumber-Solution1.cpp.i
 
-Leetcode/FindTheDuplicateNumber.s: Leetcode/FindTheDuplicateNumber.cpp.s
+Leetcode/FindTheDuplicateNumber-Solution1.s: Leetcode/FindTheDuplicateNumber-Solution1.cpp.s
 
-.PHONY : Leetcode/FindTheDuplicateNumber.s
+.PHONY : Leetcode/FindTheDuplicateNumber-Solution1.s
 
 # target to generate assembly for a file
-Leetcode/FindTheDuplicateNumber.cpp.s:
-	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.s
-.PHONY : Leetcode/FindTheDuplicateNumber.cpp.s
+Leetcode/FindTheDuplicateNumber-Solution1.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.s
+.PHONY : Leetcode/FindTheDuplicateNumber-Solution1.cpp.s
+
+Leetcode/FindTheDuplicateNumber-Solution2.o: Leetcode/FindTheDuplicateNumber-Solution2.cpp.o
+
+.PHONY : Leetcode/FindTheDuplicateNumber-Solution2.o
+
+# target to build an object file
+Leetcode/FindTheDuplicateNumber-Solution2.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.o
+.PHONY : Leetcode/FindTheDuplicateNumber-Solution2.cpp.o
+
+Leetcode/FindTheDuplicateNumber-Solution2.i: Leetcode/FindTheDuplicateNumber-Solution2.cpp.i
+
+.PHONY : Leetcode/FindTheDuplicateNumber-Solution2.i
+
+# target to preprocess a source file
+Leetcode/FindTheDuplicateNumber-Solution2.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.i
+.PHONY : Leetcode/FindTheDuplicateNumber-Solution2.cpp.i
+
+Leetcode/FindTheDuplicateNumber-Solution2.s: Leetcode/FindTheDuplicateNumber-Solution2.cpp.s
+
+.PHONY : Leetcode/FindTheDuplicateNumber-Solution2.s
+
+# target to generate assembly for a file
+Leetcode/FindTheDuplicateNumber-Solution2.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.s
+.PHONY : Leetcode/FindTheDuplicateNumber-Solution2.cpp.s
 
 Leetcode/IntegerBreak.o: Leetcode/IntegerBreak.cpp.o
 
@@ -321,9 +348,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Problems"
-	@echo "... Leetcode/FindTheDuplicateNumber.o"
-	@echo "... Leetcode/FindTheDuplicateNumber.i"
-	@echo "... Leetcode/FindTheDuplicateNumber.s"
+	@echo "... Leetcode/FindTheDuplicateNumber-Solution1.o"
+	@echo "... Leetcode/FindTheDuplicateNumber-Solution1.i"
+	@echo "... Leetcode/FindTheDuplicateNumber-Solution1.s"
+	@echo "... Leetcode/FindTheDuplicateNumber-Solution2.o"
+	@echo "... Leetcode/FindTheDuplicateNumber-Solution2.i"
+	@echo "... Leetcode/FindTheDuplicateNumber-Solution2.s"
 	@echo "... Leetcode/IntegerBreak.o"
 	@echo "... Leetcode/IntegerBreak.i"
 	@echo "... Leetcode/IntegerBreak.s"

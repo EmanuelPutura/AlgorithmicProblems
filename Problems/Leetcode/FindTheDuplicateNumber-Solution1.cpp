@@ -31,7 +31,7 @@ public:
             }
         }
 
-        return -1;
+        return -1;  // this should never happen
     }
 };
 

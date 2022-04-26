@@ -135,18 +135,31 @@ CMakeFiles/Problems.dir/Leetcode/IntegerBreak.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/IntegerBreak.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/IntegerBreak.cpp -o CMakeFiles/Problems.dir/Leetcode/IntegerBreak.cpp.s
 
-CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.o: CMakeFiles/Problems.dir/flags.make
-CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.o: ../Leetcode/FindTheDuplicateNumber.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.o -c /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber.cpp
+CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.o: CMakeFiles/Problems.dir/flags.make
+CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.o: ../Leetcode/FindTheDuplicateNumber-Solution1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.o -c /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber-Solution1.cpp
 
-CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber.cpp > CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.i
+CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber-Solution1.cpp > CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.i
 
-CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber.cpp -o CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.s
+CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber-Solution1.cpp -o CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.s
+
+CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.o: CMakeFiles/Problems.dir/flags.make
+CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.o: ../Leetcode/FindTheDuplicateNumber-Solution2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.o -c /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber-Solution2.cpp
+
+CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber-Solution2.cpp > CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.i
+
+CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber-Solution2.cpp -o CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.s
 
 # Object files for target Problems
 Problems_OBJECTS = \
@@ -156,7 +169,8 @@ Problems_OBJECTS = \
 "CMakeFiles/Problems.dir/Leetcode/ReverseInteger.cpp.o" \
 "CMakeFiles/Problems.dir/Leetcode/RotateList.cpp.o" \
 "CMakeFiles/Problems.dir/Leetcode/IntegerBreak.cpp.o" \
-"CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.o"
+"CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.o" \
+"CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.o"
 
 # External object files for target Problems
 Problems_EXTERNAL_OBJECTS =
@@ -167,10 +181,11 @@ Problems: CMakeFiles/Problems.dir/Leetcode/RemoveDuplicatesFromSortedArray.cpp.o
 Problems: CMakeFiles/Problems.dir/Leetcode/ReverseInteger.cpp.o
 Problems: CMakeFiles/Problems.dir/Leetcode/RotateList.cpp.o
 Problems: CMakeFiles/Problems.dir/Leetcode/IntegerBreak.cpp.o
-Problems: CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.o
+Problems: CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.o
+Problems: CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.o
 Problems: CMakeFiles/Problems.dir/build.make
 Problems: CMakeFiles/Problems.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Problems"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Problems"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Problems.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

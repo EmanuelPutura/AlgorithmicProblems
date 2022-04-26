@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber.cpp" "/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.o"
+  "/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber-Solution1.cpp" "/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution1.cpp.o"
+  "/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber-Solution2.cpp" "/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber-Solution2.cpp.o"
   "/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/IntegerBreak.cpp" "/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/Leetcode/IntegerBreak.cpp.o"
   "/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/RemoveDuplicatesFromSortedArray.cpp" "/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/Leetcode/RemoveDuplicatesFromSortedArray.cpp.o"
   "/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/ReverseInteger.cpp" "/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir/Leetcode/ReverseInteger.cpp.o"
