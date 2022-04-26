@@ -1,4 +1,4 @@
-/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems
 -- Configuring done
 -- Generating done
--- Build files have been written to: /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug
+-- Build files have been written to: /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug

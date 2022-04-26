@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems
+CMAKE_SOURCE_DIR = /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug
+CMAKE_BINARY_DIR = /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -122,6 +122,33 @@ Problems: cmake_check_build_system
 Problems/fast:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/build
 .PHONY : Problems/fast
+
+Leetcode/FindTheDuplicateNumber.o: Leetcode/FindTheDuplicateNumber.cpp.o
+
+.PHONY : Leetcode/FindTheDuplicateNumber.o
+
+# target to build an object file
+Leetcode/FindTheDuplicateNumber.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.o
+.PHONY : Leetcode/FindTheDuplicateNumber.cpp.o
+
+Leetcode/FindTheDuplicateNumber.i: Leetcode/FindTheDuplicateNumber.cpp.i
+
+.PHONY : Leetcode/FindTheDuplicateNumber.i
+
+# target to preprocess a source file
+Leetcode/FindTheDuplicateNumber.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.i
+.PHONY : Leetcode/FindTheDuplicateNumber.cpp.i
+
+Leetcode/FindTheDuplicateNumber.s: Leetcode/FindTheDuplicateNumber.cpp.s
+
+.PHONY : Leetcode/FindTheDuplicateNumber.s
+
+# target to generate assembly for a file
+Leetcode/FindTheDuplicateNumber.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/FindTheDuplicateNumber.cpp.s
+.PHONY : Leetcode/FindTheDuplicateNumber.cpp.s
 
 Leetcode/IntegerBreak.o: Leetcode/IntegerBreak.cpp.o
 
@@ -294,6 +321,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Problems"
+	@echo "... Leetcode/FindTheDuplicateNumber.o"
+	@echo "... Leetcode/FindTheDuplicateNumber.i"
+	@echo "... Leetcode/FindTheDuplicateNumber.s"
 	@echo "... Leetcode/IntegerBreak.o"
 	@echo "... Leetcode/IntegerBreak.i"
 	@echo "... Leetcode/IntegerBreak.s"

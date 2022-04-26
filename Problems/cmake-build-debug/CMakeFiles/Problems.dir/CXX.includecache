@@ -6,11 +6,35 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/Informatica/Algorithms/Algorithms/AlgorithmicProblems/Problems/Leetcode/IntegerBreak.cpp
+/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber.cpp
+vector
+-
+
+/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/IntegerBreak.cpp
 iostream
 -
 algorithm
 -
 cmath
+-
+
+/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/RemoveDuplicatesFromSortedArray.cpp
+vector
+-
+
+/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/ReverseInteger.cpp
+iostream
+-
+
+/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/RotateList.cpp
+
+/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/TwoSum.cpp
+vector
+-
+unordered_map
+-
+
+/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/main.cpp
+iostream
 -
 
