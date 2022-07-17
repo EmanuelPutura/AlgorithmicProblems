@@ -6,11 +6,5 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber-Solution1.cpp
-vector
--
-
-/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/FindTheDuplicateNumber-Solution2.cpp
-vector
--
+/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/RemoveDuplicatesFromSortedList.cpp
 

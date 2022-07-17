@@ -9,6 +9,8 @@ CMakeFiles/Problems.dir/Leetcode/IntegerBreak.cpp.o: ../Leetcode/IntegerBreak.cp
 
 CMakeFiles/Problems.dir/Leetcode/RemoveDuplicatesFromSortedArray.cpp.o: ../Leetcode/RemoveDuplicatesFromSortedArray.cpp
 
+CMakeFiles/Problems.dir/Leetcode/RemoveDuplicatesFromSortedList.cpp.o: ../Leetcode/RemoveDuplicatesFromSortedList.cpp
+
 CMakeFiles/Problems.dir/Leetcode/ReverseInteger.cpp.o: ../Leetcode/ReverseInteger.cpp
 
 CMakeFiles/Problems.dir/Leetcode/RotateList.cpp.o: ../Leetcode/RotateList.cpp

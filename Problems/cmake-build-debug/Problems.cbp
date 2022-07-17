@@ -94,6 +94,9 @@
 		<Unit filename="/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/RemoveDuplicatesFromSortedArray.cpp">
 			<Option target="Problems"/>
 		</Unit>
+		<Unit filename="/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/RemoveDuplicatesFromSortedList.cpp">
+			<Option target="Problems"/>
+		</Unit>
 		<Unit filename="/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/ReverseInteger.cpp">
 			<Option target="Problems"/>
 		</Unit>

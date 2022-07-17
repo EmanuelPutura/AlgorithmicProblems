@@ -231,6 +231,33 @@ Leetcode/RemoveDuplicatesFromSortedArray.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/RemoveDuplicatesFromSortedArray.cpp.s
 .PHONY : Leetcode/RemoveDuplicatesFromSortedArray.cpp.s
 
+Leetcode/RemoveDuplicatesFromSortedList.o: Leetcode/RemoveDuplicatesFromSortedList.cpp.o
+
+.PHONY : Leetcode/RemoveDuplicatesFromSortedList.o
+
+# target to build an object file
+Leetcode/RemoveDuplicatesFromSortedList.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/RemoveDuplicatesFromSortedList.cpp.o
+.PHONY : Leetcode/RemoveDuplicatesFromSortedList.cpp.o
+
+Leetcode/RemoveDuplicatesFromSortedList.i: Leetcode/RemoveDuplicatesFromSortedList.cpp.i
+
+.PHONY : Leetcode/RemoveDuplicatesFromSortedList.i
+
+# target to preprocess a source file
+Leetcode/RemoveDuplicatesFromSortedList.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/RemoveDuplicatesFromSortedList.cpp.i
+.PHONY : Leetcode/RemoveDuplicatesFromSortedList.cpp.i
+
+Leetcode/RemoveDuplicatesFromSortedList.s: Leetcode/RemoveDuplicatesFromSortedList.cpp.s
+
+.PHONY : Leetcode/RemoveDuplicatesFromSortedList.s
+
+# target to generate assembly for a file
+Leetcode/RemoveDuplicatesFromSortedList.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/RemoveDuplicatesFromSortedList.cpp.s
+.PHONY : Leetcode/RemoveDuplicatesFromSortedList.cpp.s
+
 Leetcode/ReverseInteger.o: Leetcode/ReverseInteger.cpp.o
 
 .PHONY : Leetcode/ReverseInteger.o
@@ -360,6 +387,9 @@ help:
 	@echo "... Leetcode/RemoveDuplicatesFromSortedArray.o"
 	@echo "... Leetcode/RemoveDuplicatesFromSortedArray.i"
 	@echo "... Leetcode/RemoveDuplicatesFromSortedArray.s"
+	@echo "... Leetcode/RemoveDuplicatesFromSortedList.o"
+	@echo "... Leetcode/RemoveDuplicatesFromSortedList.i"
+	@echo "... Leetcode/RemoveDuplicatesFromSortedList.s"
 	@echo "... Leetcode/ReverseInteger.o"
 	@echo "... Leetcode/ReverseInteger.i"
 	@echo "... Leetcode/ReverseInteger.s"
