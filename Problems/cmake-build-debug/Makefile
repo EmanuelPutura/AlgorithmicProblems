@@ -312,6 +312,33 @@ Leetcode/RotateList.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/RotateList.cpp.s
 .PHONY : Leetcode/RotateList.cpp.s
 
+Leetcode/SubarraySumEqualsK.o: Leetcode/SubarraySumEqualsK.cpp.o
+
+.PHONY : Leetcode/SubarraySumEqualsK.o
+
+# target to build an object file
+Leetcode/SubarraySumEqualsK.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/SubarraySumEqualsK.cpp.o
+.PHONY : Leetcode/SubarraySumEqualsK.cpp.o
+
+Leetcode/SubarraySumEqualsK.i: Leetcode/SubarraySumEqualsK.cpp.i
+
+.PHONY : Leetcode/SubarraySumEqualsK.i
+
+# target to preprocess a source file
+Leetcode/SubarraySumEqualsK.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/SubarraySumEqualsK.cpp.i
+.PHONY : Leetcode/SubarraySumEqualsK.cpp.i
+
+Leetcode/SubarraySumEqualsK.s: Leetcode/SubarraySumEqualsK.cpp.s
+
+.PHONY : Leetcode/SubarraySumEqualsK.s
+
+# target to generate assembly for a file
+Leetcode/SubarraySumEqualsK.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/SubarraySumEqualsK.cpp.s
+.PHONY : Leetcode/SubarraySumEqualsK.cpp.s
+
 Leetcode/TwoSum.o: Leetcode/TwoSum.cpp.o
 
 .PHONY : Leetcode/TwoSum.o
@@ -396,6 +423,9 @@ help:
 	@echo "... Leetcode/RotateList.o"
 	@echo "... Leetcode/RotateList.i"
 	@echo "... Leetcode/RotateList.s"
+	@echo "... Leetcode/SubarraySumEqualsK.o"
+	@echo "... Leetcode/SubarraySumEqualsK.i"
+	@echo "... Leetcode/SubarraySumEqualsK.s"
 	@echo "... Leetcode/TwoSum.o"
 	@echo "... Leetcode/TwoSum.i"
 	@echo "... Leetcode/TwoSum.s"

@@ -103,6 +103,9 @@
 		<Unit filename="/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/RotateList.cpp">
 			<Option target="Problems"/>
 		</Unit>
+		<Unit filename="/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/SubarraySumEqualsK.cpp">
+			<Option target="Problems"/>
+		</Unit>
 		<Unit filename="/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/TwoSum.cpp">
 			<Option target="Problems"/>
 		</Unit>
