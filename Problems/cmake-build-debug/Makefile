@@ -231,6 +231,33 @@ Leetcode/IntegerBreak.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/IntegerBreak.cpp.s
 .PHONY : Leetcode/IntegerBreak.cpp.s
 
+Leetcode/MaximumSubarray.o: Leetcode/MaximumSubarray.cpp.o
+
+.PHONY : Leetcode/MaximumSubarray.o
+
+# target to build an object file
+Leetcode/MaximumSubarray.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MaximumSubarray.cpp.o
+.PHONY : Leetcode/MaximumSubarray.cpp.o
+
+Leetcode/MaximumSubarray.i: Leetcode/MaximumSubarray.cpp.i
+
+.PHONY : Leetcode/MaximumSubarray.i
+
+# target to preprocess a source file
+Leetcode/MaximumSubarray.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MaximumSubarray.cpp.i
+.PHONY : Leetcode/MaximumSubarray.cpp.i
+
+Leetcode/MaximumSubarray.s: Leetcode/MaximumSubarray.cpp.s
+
+.PHONY : Leetcode/MaximumSubarray.s
+
+# target to generate assembly for a file
+Leetcode/MaximumSubarray.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/MaximumSubarray.cpp.s
+.PHONY : Leetcode/MaximumSubarray.cpp.s
+
 Leetcode/RemoveDuplicatesFromSortedArray.o: Leetcode/RemoveDuplicatesFromSortedArray.cpp.o
 
 .PHONY : Leetcode/RemoveDuplicatesFromSortedArray.o
@@ -441,6 +468,9 @@ help:
 	@echo "... Leetcode/IntegerBreak.o"
 	@echo "... Leetcode/IntegerBreak.i"
 	@echo "... Leetcode/IntegerBreak.s"
+	@echo "... Leetcode/MaximumSubarray.o"
+	@echo "... Leetcode/MaximumSubarray.i"
+	@echo "... Leetcode/MaximumSubarray.s"
 	@echo "... Leetcode/RemoveDuplicatesFromSortedArray.o"
 	@echo "... Leetcode/RemoveDuplicatesFromSortedArray.i"
 	@echo "... Leetcode/RemoveDuplicatesFromSortedArray.s"
