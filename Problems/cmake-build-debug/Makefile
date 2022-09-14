@@ -366,6 +366,33 @@ Leetcode/RotateList.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/RotateList.cpp.s
 .PHONY : Leetcode/RotateList.cpp.s
 
+Leetcode/SearchInRotatedSortedArray.o: Leetcode/SearchInRotatedSortedArray.cpp.o
+
+.PHONY : Leetcode/SearchInRotatedSortedArray.o
+
+# target to build an object file
+Leetcode/SearchInRotatedSortedArray.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/SearchInRotatedSortedArray.cpp.o
+.PHONY : Leetcode/SearchInRotatedSortedArray.cpp.o
+
+Leetcode/SearchInRotatedSortedArray.i: Leetcode/SearchInRotatedSortedArray.cpp.i
+
+.PHONY : Leetcode/SearchInRotatedSortedArray.i
+
+# target to preprocess a source file
+Leetcode/SearchInRotatedSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/SearchInRotatedSortedArray.cpp.i
+.PHONY : Leetcode/SearchInRotatedSortedArray.cpp.i
+
+Leetcode/SearchInRotatedSortedArray.s: Leetcode/SearchInRotatedSortedArray.cpp.s
+
+.PHONY : Leetcode/SearchInRotatedSortedArray.s
+
+# target to generate assembly for a file
+Leetcode/SearchInRotatedSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/SearchInRotatedSortedArray.cpp.s
+.PHONY : Leetcode/SearchInRotatedSortedArray.cpp.s
+
 Leetcode/SubarraySumEqualsK.o: Leetcode/SubarraySumEqualsK.cpp.o
 
 .PHONY : Leetcode/SubarraySumEqualsK.o
@@ -483,6 +510,9 @@ help:
 	@echo "... Leetcode/RotateList.o"
 	@echo "... Leetcode/RotateList.i"
 	@echo "... Leetcode/RotateList.s"
+	@echo "... Leetcode/SearchInRotatedSortedArray.o"
+	@echo "... Leetcode/SearchInRotatedSortedArray.i"
+	@echo "... Leetcode/SearchInRotatedSortedArray.s"
 	@echo "... Leetcode/SubarraySumEqualsK.o"
 	@echo "... Leetcode/SubarraySumEqualsK.i"
 	@echo "... Leetcode/SubarraySumEqualsK.s"
