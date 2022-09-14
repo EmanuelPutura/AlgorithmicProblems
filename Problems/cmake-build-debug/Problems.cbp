@@ -112,6 +112,9 @@
 		<Unit filename="/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/SearchInRotatedSortedArray.cpp">
 			<Option target="Problems"/>
 		</Unit>
+		<Unit filename="/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/SetMatrixZeroes.cpp">
+			<Option target="Problems"/>
+		</Unit>
 		<Unit filename="/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/Leetcode/SubarraySumEqualsK.cpp">
 			<Option target="Problems"/>
 		</Unit>

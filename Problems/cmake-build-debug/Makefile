@@ -393,6 +393,33 @@ Leetcode/SearchInRotatedSortedArray.cpp.s:
 	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/SearchInRotatedSortedArray.cpp.s
 .PHONY : Leetcode/SearchInRotatedSortedArray.cpp.s
 
+Leetcode/SetMatrixZeroes.o: Leetcode/SetMatrixZeroes.cpp.o
+
+.PHONY : Leetcode/SetMatrixZeroes.o
+
+# target to build an object file
+Leetcode/SetMatrixZeroes.cpp.o:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/SetMatrixZeroes.cpp.o
+.PHONY : Leetcode/SetMatrixZeroes.cpp.o
+
+Leetcode/SetMatrixZeroes.i: Leetcode/SetMatrixZeroes.cpp.i
+
+.PHONY : Leetcode/SetMatrixZeroes.i
+
+# target to preprocess a source file
+Leetcode/SetMatrixZeroes.cpp.i:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/SetMatrixZeroes.cpp.i
+.PHONY : Leetcode/SetMatrixZeroes.cpp.i
+
+Leetcode/SetMatrixZeroes.s: Leetcode/SetMatrixZeroes.cpp.s
+
+.PHONY : Leetcode/SetMatrixZeroes.s
+
+# target to generate assembly for a file
+Leetcode/SetMatrixZeroes.cpp.s:
+	$(MAKE) -f CMakeFiles/Problems.dir/build.make CMakeFiles/Problems.dir/Leetcode/SetMatrixZeroes.cpp.s
+.PHONY : Leetcode/SetMatrixZeroes.cpp.s
+
 Leetcode/SubarraySumEqualsK.o: Leetcode/SubarraySumEqualsK.cpp.o
 
 .PHONY : Leetcode/SubarraySumEqualsK.o
@@ -513,6 +540,9 @@ help:
 	@echo "... Leetcode/SearchInRotatedSortedArray.o"
 	@echo "... Leetcode/SearchInRotatedSortedArray.i"
 	@echo "... Leetcode/SearchInRotatedSortedArray.s"
+	@echo "... Leetcode/SetMatrixZeroes.o"
+	@echo "... Leetcode/SetMatrixZeroes.i"
+	@echo "... Leetcode/SetMatrixZeroes.s"
 	@echo "... Leetcode/SubarraySumEqualsK.o"
 	@echo "... Leetcode/SubarraySumEqualsK.i"
 	@echo "... Leetcode/SubarraySumEqualsK.s"
