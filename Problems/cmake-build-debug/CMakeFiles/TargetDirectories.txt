@@ -1,3 +1,0 @@
-/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/d/Informatica/InterviewPreparation/AlgorithmicProblems/Problems/cmake-build-debug/CMakeFiles/Problems.dir
